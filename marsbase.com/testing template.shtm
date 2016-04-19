@@ -1,0 +1,23 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Header</h1>
+      <p>sub-content<br>
+      <a href="http://www.hp.com" class="nav">
+      Links</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">Content Area...</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

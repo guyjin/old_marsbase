@@ -1,0 +1,30 @@
+<!--#include virtual="addin1.inc" -->
+      <h1>Ground</h1>
+      
+<p><a href="ranger.shtm" class="nav">Ranger</a><br>
+  <a href="jeep.shtm" class="nav">Jeep</a><br>
+      </p>
+    
+    <td valign="top" align="left" width="100%">
+      <div align="center">
+      <center>
+      <table border="0" width="75%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left"><img border="0" src="images/ranger/small/tankpose_small.jpg" align="right" width="100" height="74">Ground 
+            forces have, with the introduction of <a href="mecha.shtm">mecha</a> 
+            begun to transition to supporting roles. However, until recently, 
+            Ground forces have indeed carried the majority of the 'Corps' hitting 
+            power. </td>
+        </tr>
+      </table>
+      </center>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  
+
+<!--#include virtual="addin2.inc" -->

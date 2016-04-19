@@ -1,0 +1,83 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Kodiak<br>After Action</h1>
+      
+<p><a href="kodiak.shtm" class="nav">Kodiak</a><br>
+  <a href="kodgallery.shtm" class="nav"> Kodiak Gallery</a><br>
+  <a href="instructions.shtm" class="nav">Plans</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">
+Following the final battle of Tremor VIII, documentation of the aftermath was
+collected.&nbsp; These photos are of the Kodiak piloted by Major Giordano.<br>
+His heroic stand against overwhelming armored forces has stood as testament to
+the 'Corps.&nbsp; Following this battle, demand for Kodiak mecha reached an all
+time high amongst commanders of the Space Corps.&nbsp;
+<hr>
+<table border="0" width="100%">
+  <tr>
+    <td valign="top" align="left">Showing the wreckage of the Kodiak
+      as it was found. The right arm, left hand, and most of the left tthigh have
+      been completely destroyed. </td>
+    <td><a href="images/kodiakpov/afteraction/downhard.jpg"><img border="0" src="images/kodiakpov/small/downhard_small.jpg" width="100" height="75"></a></td>
+  </tr>
+  <tr>
+    <td valign="top" align="left" colspan="2">
+      <hr>
+ </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">The left thigh was the first major
+      damage taken by the Kodiak according to eye witnesses and recovered
+      telemetry.&nbsp; Witnesses have stated that Major Giordano managed to
+      continue to pilot&nbsp; the mecha, balancing it on one foot.&nbsp; The
+      Kodiak's large, stable footprint allowed it to remain erect.</td>
+    <td><a href="images/kodiakpov/afteraction/blownhip.jpg"><img border="0" src="images/kodiakpov/small/blownhip_small.jpg" width="100" height="75"></a></td>
+  </tr>
+  <tr>
+    <td valign="top" align="left" colspan="2">
+      <hr>
+ </td>
+  </tr>
+
+  <tr>
+    <td valign="top" align="left">The loss of the right ankle
+      finally brought the Kodiak down, but not before it had destroyed a large
+      percentage of the 4 platoons of armor that had been advancing on firebase
+      Eta.</td>
+    <td><a href="images/kodiakpov/afteraction/ankle.jpg"><img border="0" src="images/kodiakpov/small/ankle_small.jpg" width="100" height="75"></a></td>
+  </tr>
+  <tr>
+    <td valign="top" align="left" colspan="2">
+      <hr>
+ </td>
+  </tr>
+
+  <tr>
+    <td valign="top" align="left">The shoulder mounted missle pod
+      was found to be empty, but in targeting mode, lending credence to the
+      account from witnesses that the pod never stopped firing.&nbsp; From damage
+      to enemy armor, the SmartStick pod scored on 80% of it's shots; a
+      remarkable achievement considering the battle conditions.&nbsp; Later
+      simulations and exercises duplicating the conditions at&nbsp; Tremor VIII
+      have never reached such a high level of accuracy.&nbsp; For bravery, Major
+      Giordano was posthumously awarded the Star Heart (the highest decoration
+      available).</td>
+    <td><a href="images/kodiakpov/afteraction/onthebounce.jpg"><img border="0" src="images/kodiakpov/small/onthebounce_small.jpg" width="100" height="75"></a></td>
+  </tr>
+</table>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

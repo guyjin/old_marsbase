@@ -1,0 +1,32 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Air</h1>
+      
+<p><a href="airbike.shtm" class="nav">Airbike</a><br>
+  <a href="kingfisher.shtm" class="nav"> Kingfisher</a><br>
+  <a href="kite.shtm" class="nav">Kite</a><br>
+      <a href="dragonfly.shtm" class="nav">Dragonfly</a><br>
+      <a href="valkyrie.shtm" class="nav">Valkyrie</a></p>
+    
+    <td valign="top" align="left" width="100%">
+
+      
+  <table border="0" width="100%" cellspacing="3" cellpadding="3">
+    <tr>
+          
+      <td width="100%" valign="top" align="left" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          
+      <td width="100%" valign="top" align="center"> <a href="images/jericho/liftoff.jpg"><img border="0" src="images/jericho/small/liftoff_small.jpg" alt="liftoff.jpg (25814 bytes)" align="right" width="100" height="69"></a>Air 
+        power continues to play a significant role in any and all operational 
+        theatres.&nbsp; Technology has drastically improved performance and firepower, 
+        but the goal remains the same: Own the Sky. </td>
+        </tr>
+      </table>
+      
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  
+
+<!--#include virtual="addin2.inc" -->

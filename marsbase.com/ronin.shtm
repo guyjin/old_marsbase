@@ -1,0 +1,263 @@
+<!--#include virtual="addin1.inc" -->
+      <h1>Ronin</h1>
+      
+<p><a href="roningallery.shtm" class="nav">Ronin Gallery</a><a href="roninmod.shtm" class="nav"><br>
+  Weapons Mod</a><a href="instructions.shtm" class="nav"><br>
+      Plans</a></p>
+    </td>
+    <td valign="top" align="right" width="100%">
+  &nbsp;
+  <table align="center" border="0" width="75%">
+  
+  <tr>
+    <td>
+      Designation: Johann Maus Metal Works AM1.mkV
+      <p> 
+      Perhaps the finest mecha ever produced in the ULF's history, the newly introduced
+      &quot;Ronin&quot; has heretofore been the root of speculation amongst all
+      of those outside the SpaceCorps' inner circle.&nbsp;&nbsp;<br>
+          Initially intended to be in limited production as a replacement for 
+          the <a href="rapier.shtm">Rapier</a>, this newest platform has outperformed 
+          the specifications originally laid out.&nbsp; This has led to speculation 
+          of an increased deployment, perhaps replacing the aging <a href="badger.shtm">Badger</a> 
+          and <a href="gekko.shtm">Gekko</a> as well.</p>
+      <hr>
+
+</td>
+  </tr>
+  
+  <tr>
+    <td valign="top" align="left"> 
+      <a href="images/ronin/head.jpg"> 
+      <img border="0" src="images/ronin/small/head_small.jpg" align="right" width="100" height="110"> 
+      </a> The Ronin's head contains the primary visual optics.&nbsp; With improved
+      Low-light, IR, Pan-Spectra, and whisker laser scanning, the Ronin is able
+      to operate in all-weather conditions.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"> 
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <a href="images\ronin\chestplate.jpg">
+      <img border="0" src="images/ronin/chestplate.jpg" align="right" width="91" height="191"></a>
+      The Ronin carries a significant amount of weaponry.&nbsp; Much of it is
+      self contained either in the torso or the gauntlets.&nbsp; Here we see the
+      left chest plate that acts as protection for one of&nbsp; the internal
+      weapons clusters.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <a href="images/ronin/openchest.jpg">
+      <img border="0" src="images/ronin/small/openchest_small.jpg" align="right" width="100" height="77">
+      </a> Seen here with the chest plates open, the Ronin shows off it's port and
+      starboard weapon clusters.&nbsp; Each cluster consists of two type 4 PAC's
+      (Particle Accelerator Cannon) and a single type 4 Graser. Such a
+      combination of mass and heat gives the the Ronin the largest internal
+      loadout in the history of the 'Corps.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"> 
+      <a href="images/ronin/elbow.jpg"> 
+      <img border="0" src="images/ronin/small/elbow_small.jpg" align="right" width="100" height="116"> 
+      </a> All of the joints on the Ronin were engineered for maximum
+      range-of-motion.&nbsp; Seen here is the right elbow.&nbsp; Notice that,
+      unlike human joints, this elbow can allow for 360 degrees of
+      movement.&nbsp; This offers the pilot some unique tactical opportunities.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"> 
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <a href="images/ronin/elbows.jpg">
+      <img border="0" src="images/ronin/small/elbows_small.jpg" align="right" width="100" height="30">
+      </a> The Ronin carries significant defensive capability as well.&nbsp; Each
+      forearm carries ECM pods as well as proximity detection systems.&nbsp; Also visible here are the elbow joints and the primary exhaust filter.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"><a href="images/ronin/left4arm.jpg"><img border="0" src="images/ronin/small/left4arm_small.jpg" align="right" width="100" height="122"></a>Designers of the Ronin had to
+      expect their design to be involved in close combat with enemy vehicles and
+      mecha.&nbsp; Based on after action reports, previous mecha have lacked a
+      serious weapons system for close-quarters action.&nbsp; With this in mind,
+      Johann Maus engineers incorporated the Pendeltaun Contained Laser Weapons
+      System or CLAWS.&nbsp; Essentially, CLAWS gives the Ronin an energy blade
+      of pure laser energy.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"><a href="images/ronin/sword.jpg"><img border="0" src="images/ronin/small/sword_small.jpg" align="right" width="100" height="37"></a>Seen
+      here in it's deployed state, the CLAWS system offers a devastating close
+      in fighting advantage.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"><a href="images/ronin/wristgun.jpg"><img border="0" src="images/ronin/small/wristgun_small.jpg" align="right" width="100" height="97"></a>When not deployed, the CLAWS lens
+      system is tucked in close to the forearm to protect it from damage.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"><a href="images/ronin/waistgun.jpg"><img border="0" src="images/ronin/small/waistgun_small.jpg" align="right" width="100" height="100"></a>Under the right side of the torso,
+      just above the waist is a small Type 2 PAC.&nbsp; Intended to be used to
+      fend off light armor and infantry units this PAC can provide a nasty
+      surprise to enemy mecha pilots.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"><a href="images/ronin/waist.jpg"><img border="0" src="images/ronin/small/waist_small.jpg" align="right" width="100" height="57"></a>Encircling the waist are armored
+      plates intended to provide better protection of the hip and waist joints.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"><a href="images/ronin/scale.jpg"><img border="0" src="images/ronin/small/scale_small.jpg" align="right" width="100" height="69"></a>The Ronin stand approximately
+      thirty-six feet tall (36').&nbsp; This makes it the tallest mecha in the
+      SpaceCorps inventory.&nbsp; By contrast, the Kodiak measures in at
+      twenty-six feet. (26').&nbsp; This image also shows the significant amount
+      of armor that surrounds the ankle and foot joints.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"><a href="images/ronin/pistol.jpg"><img border="0" src="images/ronin/small/pistol_small.jpg" align="right" width="100" height="105"></a>While the Ronin does carry an
+      impressive array of weaponry internally, none of it is considered to be
+      it's primary weapon.&nbsp; For that Johann Maus looked to the Browning-Lyfeld
+      M375 semi-automatic 133mm pistol.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"><a href="images/ronin/pistol2.jpg"><img border="0" src="images/ronin/small/pistol2_small.jpg" align="right" width="100" height="106"></a>The M375 accelerates it's shells
+      using a laser acclerator that is &quot;steerable&quot;&nbsp; Able to
+      achive nearly hypersonic speeds, this weapon's bullets have been found to
+      penetrate armor up to 750mm thick.&nbsp; The steerable laser allows the
+      Ronin to aim around corners and over hills, thus eliminating the need to
+      expose itself to enemy fire early in a conflict.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"><a href="images/ronin/ronintop.jpg"><img border="0" src="images/ronin/small/ronintop_small.jpg" align="right" width="100" height="44"></a>Johann Maus engineers looked at
+      all aspects of the Ronin's design.&nbsp; Seen from above here, the thin
+      upper silhouette helps to minimize the Ronin's detection from the air.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"><a href="images/ronin/sensorpods.jpg"><img border="0" src="images/ronin/small/sensorpods_small.jpg" align="right" width="100" height="140"></a>Perhaps the greatest innovation
+      the Ronin sports is the inclusion of extended sensor pods. <br>
+      Able to detect emissions on all wavelengths, the sensor pods give Ronin
+      pilots the ability to track enemy units by their electronic output.&nbsp; At
+      this point, the only way to defeat the system is to completely shutdown,
+      and thus deny the system any radiated energy to find.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"><a href="images/ronin/sensortips.jpg"><img border="0" src="images/ronin/small/sensortips_small.jpg" align="right" width="100" height="101"></a>The key to the sensors can be seen
+      here.&nbsp; The halon cooled sensor heads completely scan all know
+      frequencies 25 times a second.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+      <td valign="middle" align="center">Plans for the Ronin are now available in 
+        the <a href="http://www.marsbase.com/instructions.shtm">Blueprints</a> 
+        archive.<br>
+        <a href="roningallery.shtm">Image gallery of the Ronin</a><a href="roninmod.shtm"><br>
+      Ronin Weapons Modification</a>
+      </td>
+  </tr>
+</table>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

@@ -1,0 +1,33 @@
+<!--#include virtual="addin1.inc" -->
+     
+<h1>Credits</h1>
+      
+<p> <a href="index.shtm" class="nav"> Home</a></p>
+    
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          
+        <td width="100%" valign="top" align="left">
+          <p><b>Karim Nassar</b> - The hands on most of the mecha on this site 
+            use Karim's design. The engines of the Valkyrie were inspired by a 
+            design of his from *looong* ago. I'm sure there are other areas from 
+            which I've &quot;borrowed&quot;. If you see one, let me <a href="mailto:buster@marsbase.com">know</a>.</p>
+              <p><b>Jeremy Sproat</b> - I know there's something of <a href="http://www.io.com/%7Ejsproat/lego/">Jeremy's</a> 
+                in here, but I can't remember. <a href="mailto:buster@marsbase.com">Tell</a> 
+                me if you see it. I remembered! Jeremy designed the hips and feet 
+                of the <a href="/crusader.shtm">Crusader</a> mecha.</p>
+        </td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  
+
+<!--#include virtual="addin2.inc" -->

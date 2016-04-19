@@ -1,0 +1,105 @@
+<!--#include virtual="addin1.inc" -->
+     
+<h1>Valkyrie</h1>
+      
+<p><a href="valkgallery.shtm" class="nav">Valkyrie Gallery</a><br>
+</p>
+    
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      
+    <table border="0" cellspacing="3" cellpadding="3">
+      <tr>
+          
+        <td valign="top" align="left" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          
+        <td valign="top" align="left"> 
+          <table cellpadding="2" border="0" cellspacing="0">
+            <tr> 
+              <td colspan="2"> 
+                <p align="left"> Designation: Makros SI9 &quot;Valkyrie&quot; 
+                </p>
+              </td>
+            </tr>
+            <tr> 
+              <td>Used primarily for deepspace convoy work, the Valkyrie also 
+                stands as the premiere space interceptor for the 'Corps. The Valkyrie 
+                is powered two Massey-Ferguson TR4z-8I Tug engines. These engines 
+                were originally built to drive Tugs in spacedock. With such a 
+                large powerplants mounted on such small platform, the Valyrie 
+                is capable of speeds nearing .8c, or eight tenths the speed of 
+                light. The engines share a common fusion bottle, saving on space. 
+              </td>
+              <td><a href="images/valkyrie/valke"><img src="images/valkyrie/valkeng.jpg" alt="The Valkyrie's powerplant" border="0" width="100" height="75"></a></td>
+            </tr>
+            <tr> 
+              <td colspan="2"> 
+                <hr>
+              </td>
+            </tr>
+            <tr> 
+              <td>In essence, the Valkyrie is a pilot and a gun strapped to the 
+                biggest engines the designers could find. The size of the Valkyrie 
+                is to it's advantage as it can be carried on all transports and 
+                warships of moderate size.<font face="Tahoma"> </font></td>
+              <td><a href="images/valkyrie/valkyrie1.jpg"><img src="images/valkyrie/valkyrie1.jpg" alt="The Valkyrie's diminutive size." border="0" width="100"></a> 
+            </tr>
+            <tr> 
+              <td colspan="2"> 
+                <hr>
+              </td>
+            </tr>
+            <tr> 
+              <td>The power of the Valkyrie's engines puts tremendous stress on 
+                the pilot. Developers and scientists looked for a way to reduce 
+                this stress without adding alot of mass the the fighter. With 
+                the development of the McDaniel Repulsor drive, great strides 
+                were made in the field of Gravity Management. The repulsor was 
+                modified to generate seperate gravity waves. The first lessened 
+                the G's that a pilot would be asked to pull by dropping the effects 
+                of the acceleration. The second field gave the Valkyrie something 
+                to "push" against. This field modulates itself to repulse away 
+                from naturally occuring gravity fields in space. Not only was 
+                this a great boon to the pilot, the Valkyrie no longer needed 
+                reaction engines to manuver in space, further lessening the craft's 
+                weight.</td>
+              <td><a href="images/valkyrie/valkportpod.jpg"><img src="images/valkyrie/valkportpod.jpg" alt="The Gravity Pod's" border="0" width="100"></a></td>
+            </tr>
+            <tr> 
+              <td colspan="2"> 
+                <hr>
+              </td>
+            </tr>
+            <tr> 
+              <td>Mounted under the cockpit is a small <a href="dragonfly.shtm">&quot;pac&quot;</a> 
+                (first seen on the Dragonfly). While normally an atmospheric weapon, 
+                the pac doesn't have to have an atmosphere to operate. The low 
+                weight makes the pac the ideal choice. Behind the pac the main 
+                weapon's mount can be seen.</td>
+              <td><a href="images/valkyrie/underfrnt.jpg"><img src="images/valkyrie/underfrnt.jpg" alt="The Valkyrie's chin gun." border="0" width="100"></a></td>
+            </tr>
+            <tr> 
+              <td colspan="2"> 
+                <hr>
+              </td>
+            </tr>
+            <tr> 
+              <td>The Valkyrie's main weapon is a matched pair of Carrlsen Mp4 
+                laser's. Mounted on a horizontal hard point, the lasers produce 
+                a 1.21 gigawatts of energy. The hardpoints accept a wide variety 
+                of equipment, including enhanced sensor suites and AWACS suites.</td>
+              <td><a href="images/valkyrie/stargunpod.jpg"><img src="images/valkyrie/stargunpod.jpg" alt="Valkyrie's main gun's." border="0" width="100"></a></td>
+            </tr>
+          </table>
+        </td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  
+
+<!--#include viaddin2.inc" -->

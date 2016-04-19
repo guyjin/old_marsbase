@@ -1,0 +1,118 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Ranger</h1>
+      
+<p> <a href="rangergallery.shtm" class="nav"> Ranger Gallery</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">
+
+<table cellpadding="2" width="100%" border="0" cellspacing="0">
+  
+  <tr>
+    <td colspan="2">Designation: Kelly-Pang M7 Ranger<p>
+</td>
+  </tr>
+  <tr>
+    <td>Considered in most military circles as a medium
+    tank, the Ranger is the heaviest wheeled vehicle used by the 'Corps. Originally armed with
+    a 200mm solid projectile cannon the Corps has refitted it's Rangers with the Heckler-Koch
+    MP35 Magneto-Pulse gun. As stated, the gun is the same used by the &quot;Bug&quot;, a
+    ground attack aircraft that has since been discontinued.&nbsp; However, with it's
+    substantially more powerful powerplant (the renowned GE 5400) the Ranger delivers
+    approximately six times the hitting power and 5 times the endurance. 'Corps commanders
+    also were concerned with speed when making their choice. Here the Ranger delivers in
+    spades. Capable of a maximum speed of 140 kph, the Ranger is one of the fastest ground
+    attack vehicles in operation today. However, to gain this speed some very distinct
+    compromises had to be made. The drivetrain of the Ranger is geared to provide more speed
+    and less torque, reducing the sheer power available. With the GE powerplant this shouldn't
+    be a problem, but when moving across difficult terrain and attempting to maintain a good
+    rate of fire the Ranger can often reach the edges of it's power envelope.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+    <td><a HREF="../images/ranger/tankside.jpg"><img SRC="images/ranger/tankside.jpg" BORDER="0" ALT="M7 Ranger" width="200" height="149"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td>Another compromise to get the Ranger's speed up was
+    the change made to the chassis. It is widely known that a tracked vehicle has better cross
+    country performance, and a wheeled one has better speed. Additionally, at higher speeds a
+    tracked vehicle is more likely to damage or throw a track than a wheeled one is to have a
+    &quot;flat&quot; or some other damage. With this in mind the Ranger was fitted with a
+    variable wheeled chassis. The wheels on the Ranger can change shape to reflect the needs
+    at the time, wider for better off road performance, and narrower for increased speed.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+    <td><a HREF="../images/ranger/tankfront.jpg"><img SRC="images/ranger/tankfront.jpg" ALT="The Ranger's low chassis." BORDER="0" width="200" height="149"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>One of the biggest differences between the Ranger
+    and normal tanks is the inclusion of a sophisticated AI, much to the dismay of the 'Corps
+    accountants. This AI allows the single crewmember to control direction of travel and also
+    the targeting of the main gun. Voice activated, the AI is programmed to follow a certain
+    number of commands and also has facilities to independently navigate and make the small
+    corrections and improvisations needed to manuver on the modern battlefield.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+    <td><a HREF="../images/ranger/tankhtch.jpg"><img SRC="images/ranger/tankhtch.jpg" ALT="The ranger's commander." BORDER="0" width="200" height="149"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Aiding the AI in it's control of the Ranger is the
+    aforementioned varible chassis. With its adaptable height, the Ranger is very manuverable.
+    The key ingredient to this suspension system is the axle. Designed from the beginning to
+    telescope, the axle can at time of need contract and pull the rims of the tires in closer,
+    forcing the tire (itself specially constructed) to to pull in what normallly would be
+    tread into the sidewall, leaving a narrow, high speed contact strip. When the terrain
+    requires otherwise, the axle telescopes out, widening the tires and placing what had been
+    sidewalls directly into contact with the ground. The result is a very wide tire,
+    distributing weight better and gripping the ground tighter.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+    <td><a HREF="../images/ranger/tankbtm.jpg"><img SRC="images/ranger/tankbtm.jpg" ALT="The Ranger's Chassis." BORDER="0" width="200" height="149"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+</table>
+
+<table ALIGN="CENTER" width="100%">
+  <tr>
+    <td>
+                <p align="center"><a href="rangergallery.shtm">Ranger Gallery</a>
+              </td>
+  </tr>
+</table>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

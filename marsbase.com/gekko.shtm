@@ -1,0 +1,125 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Gekko</h1>
+      
+<p><a href="gekkogallery.shtm" class="nav"> Gekko Gallery</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">
+<table cellpadding="2" width="100%" border="0" cellspacing="0">
+  
+  <tr>
+    <td colspan="2">Designation: Torvill LM-8C &quot;Gekko&quot;</td>
+  </tr>
+  <tr>
+    <td>Easy to pilot, the Gekko is highly prized among Mech
+    drivers. It's small size makes the Gekko much easier to control in uneven terrain and
+    allows for a wider range of operational areas. Usually when working in conjunction with
+    Badgers, the Gekko will patrol outlying areas.</td>
+    <td><a HREF="images/Gekko/gekfrnt.JPG"><img SRC="images/Gekko/gekfrnt.jpg" BORDER="0" ALT="Torvill LM-8C" width="200" height="150"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td>Part of the Gekko's success in rough terrain is the
+    hip design. Similar to the Badger's, this is the original design that later had to be
+    modified to support the weight of the Badger. In this configuration the Gekko has
+    superior stability and taxes it's gyro system less. However the price for this mobility is
+    lack of armor since to armor these joints would severly limit their range of motion.</td>
+    <td><a HREF="images/Gekko/gekhip.JPG"><img SRC="images/Gekko/gekhip.jpg" BORDER="0" ALT="The hip on the Gekko is dangerously exposed." width="200" height="150"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Armor is a serious issue throughout the leg assembly
+    for the Gekko. As an ad hoc solution, crews have taken to attaching armor plate to the
+    &quot;shin&quot; of the Gekko to provide at least partial protection. While the standard
+    protection is proof against small arms and light artillery, the additional armor adds at
+    least some measure of protection against larger caliber weapons and energy based guns
+    also.</td>
+    <td><a HREF="images/Gekko/geksd.JPG"><img SRC="images/Gekko/geksd.JPG" BORDER=0 ALT="The Gekko has light leg armor." width=200 height=150></a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>The Gekko has many firsts in it's design. Among
+    these is the split toe. Offering greater stability and more terrain handling features than
+    a solid toe the Gekko paved the way for other designs to begin incorporating the split
+    toe. Additionally the foot has a hinged pivot to provide more clearance when swinging it
+    forward to take a step.</td>
+    <td><a HREF="images/Gekko/gkftbnt2.JPG"><img SRC="images/Gekko/gkftbnt2.jpg" BORDER="0" ALT="A unique foot for the Gekko." width="200" height="150"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>When the Gekko design was first proposed, there was
+    loud objection to placing such a large &quot;smartstick&quot; load in the missle pod.
+    Individual cost, and the exposed position of the pod were part of the objections. The
+    designers were unwilling to compromise, citing battlefield statistics and personal
+    interviews with veterans. In the end, the misslepod and it's 200 &quot;smartstick&quot;
+    load have been major contributions to the effectiveness of the Gekko. Providing a
+    &quot;fire and forget&quot; capability, the Gekko can engage multiple targets at long
+    ranges.</td>
+    <td><a HREF="images/Gekko/gekpod.JPG"><img SRC="images/Gekko/gekpod.jpg" BORDER="0" ALT="200 smartstick missle pod." width="200" height="150"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>To give the Gekko a balanced weapons load out, two
+    PAcs were fitted to the port weapons mount with two light lasers sandwiched. The PAcs
+    aren't as powerful as the Vericoil guns of the Badger, but running off the Gekko's fusion
+    bottle, still have about half the penetration power. The PAcs are intended mostly as light
+    Mech, and heavy tracked armor weapons. For lighter units the twin lasers may be used at a
+    much smaller energy cost.</td>
+    <td><a HREF="images/Gekko/gekgun.JPG"><img SRC="images/Gekko/gekgun.jpg" BORDER="0" ALT="Twin PAcs, twin lasers." width="200" height="150"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Another technology first used on the Gekko is the
+    signature reduction gear. Primarily a noise, exhaust and heat scrubber, the gear sits atop
+    the main exhaust vent from the Gekko's fusion bottle generator. As also evidenced in
+    Badger camps the screened emissions that are released are mostly carbon dioxide and water,
+    contributing to significant plant growth around long term Gekko staging locations. Plans
+    for the Gekko are in production according to the Commandant as well as for the Badger.</td>
+    <td><a HREF="images/Gekko/gekeng.jpg"><img SRC="images/Gekko/gekeng.jpg" BORDER="0" ALT="A single engine silencer for the Gekko." width="200" height="150"></a></td>
+  </tr>
+</table>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

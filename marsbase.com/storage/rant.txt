@@ -1,0 +1,5 @@
+trying to use good design at hp amidst the sea of FrontPage users and Netscape 4.4 browsers seems to be a losing proposition.  Not that FrontPage is intrinsically bad mind you.  Well, okay, that's a lie.  using FrontPage is like trying to perform thorasic surgery while letting someone else move your hands.  It can work, but it isn't very pretty.  As a matter of fact, I'd go so far as to say that FrontPage is hands down the absolute worst thing to ever happen to web page design.
+
+The application of a word processing paradigm to web page design has been the completely wrong approach.  Web design needs to be about speed, accuracy, and ease of use.  GUI design is paramount.  Navigation and organization cannot be over-looked either.  Modern web design is about dynamic content in an ever changing framework.  The idea of translating a brochure or Word Doc into a web page doesn't work.  It doesn't work well anyhow.
+
+What it does do is teach beginners that it doesn't matter how the desired look and feel is achieved as long as it is achieved.  There is no attempt made to even let the user know that there is more to be seen and learned under the surface.

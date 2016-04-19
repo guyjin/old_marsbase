@@ -1,0 +1,29 @@
+body { background-color: #dedede; }
+
+#navmenu, #navmenu ul{
+margin:0px;
+padding:0px;
+}
+
+#navmenu ul{
+display:none;
+}
+
+#navmenu li{
+float:left;
+list-style-type:none;
+margin:0px;
+margin-left: 10px;
+padding:0px;
+}
+
+#navmenu li a{
+text-decoration:none;
+color:#999;
+background-color: #999;
+font-size: 8pt;
+}
+
+#navmenu li a:hover{
+background-color: #dedede;
+}

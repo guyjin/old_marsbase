@@ -1,0 +1,80 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Rapier</h1>
+      
+<p><a href="rapiergallery.shtm" class="nav">Rapier Gallery</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">
+<table cellpadding="2" width="100%" border="0" cellspacing="0">
+  
+  <tr>
+    <td colspan="2">Designation: Makros TS-5 &quot;Rapier&quot;
+</td>
+  </tr>
+    <tr><td colspan=2><hr></td></tr>
+  <tr>
+    <td>The Rapier is rarely seen in SpaceCorps formations
+    due to it's high cost. The sophisticated electronics and actuation system provide the
+    Rapier with unmatched speed and manuverability. Used almost exclusively by command staff,
+    the Rapier isn't just a rear area sight. As many of the Corps' commanders believe in being
+    on or close to the front lines, the Rapier often lends it's considerable firepower to
+    engagements.</td>
+    <td><a href="images/rapier/full.jpg"><img src="images/rapier/small/full_small.jpg" alt="Full view of the Rapier" border="0" width="100" height="133"></a></td>
+  </tr>
+  <tr><td colspan=2><hr></td></tr>
+  <tr>
+    <td>Part and parcel of the Rapier manuverability and
+    speed is the unique foot design. With the toe and heel able to swivel through 180 degrees,
+    rough terrain is little hindrance for the surefooted Rapier.</td>
+    <td><a href="images/rapier/footilt.jpg"><img src="images/rapier/small/footilt_small.jpg" alt="The tilt and swivel of the Rapier's foot." border="0" width="100" height="75"> </a> </td>
+  </tr>
+    <tr><td colspan=2><hr></td></tr>
+  <tr>
+    <td>Adding the the foots stability is the ankle joint.
+    Also very flexible, the ankle can swing through an arc of 130 degrees. This addition
+    allows for a more accurate firing solution when the Rapier is firing off balance, such as
+    in an ambush.</td>
+    <td><a href="images/rapier/ankle.jpg"><img src="images/rapier/small/ankle_small.jpg" alt="The Rapier's ankle" border="0" width="100" height="75"></a></td>
+  </tr>
+    <tr><td colspan=2><hr></td></tr>
+  <tr>
+    <td>The Rapier draws it's name from the placement of
+    it's main weapon, the GE Gs-20 &quot;Thor&quot; railgun. Bracketed at the wrist by three
+    Poulson L3 Medium lasers, the Rapier has a tremendous simultaneous right hand punch.</td>
+    <td><a href="images/rapier/rtgun.jpg"><img src="images/rapier/small/rtgun_small.jpg" alt="The Rapier's namesake" border="0" width="100" height="75"></a></td>
+  </tr>
+    <tr><td colspan=2><hr></td></tr>
+  <tr>
+    <td>Sitting behind the Rapier's thick armored chest
+    plate, the pilot (usually a command level officer) can pilot and still coordinate his
+    forces using the voice activated AI. Intended initially for command posts and divisional
+    level nets, this AI has been modified and downscaled to allow it to be carried in command
+    versions of this Mech.</td>
+    <td><a href="images/rapier/cockpit.jpg"><img src="images/rapier/small/cockpit_small.jpg" alt="Rapier's cockpit" border="0" width="100" height="75"></a></td>
+  </tr>
+    <tr><td colspan=2><hr></td></tr>
+</table>
+
+<table width="100%">
+  <tr>
+              <td ALIGN="CENTER" width="947"><a HREF="rapiergallery.shtm">Image gallery 
+                of the Rapier</a><br>
+    NOTE: These are large images and will take some time to load.</td>
+  </tr>
+</table>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

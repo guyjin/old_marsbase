@@ -1,0 +1,34 @@
+<!--#include virtual="addin1.inc" -->
+      <h1>Author<br>
+      Notes</h1>
+      
+<p><a href="disclaimer.shtm" class="nav">Disclaimer</a><br>
+  <a href="index.shtm" class="nav">Home</a></p>
+    
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+        <table border="0" width="100%" cellspacing="3" cellpadding="3">
+          <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+            <td width="100%" valign="top" align="left" height="169">As may or may 
+              not be evident, the contents of this site are completely fictional.&nbsp; 
+              It exists as a medium to display LEGO models that I have built.&nbsp;&nbsp; 
+              <p>I find it more entertaining to do this in this universe that I
+            have created called Marsbase; your mileage may vary.&nbsp; </p>
+            <p>Marsbase is the staging area for a rough and tumble outfit called the 137th
+            Battalion.&nbsp; Said battalion is a unit of the larger SpaceCorps,
+            which in turn falls under the umbrella of the United LEGO
+            Federation.&nbsp; For more background information on the ULF and the
+            SpaceCorps, please see the <a href="timeline.html">timeline</a>.</p>
+          </td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  
+
+<!--#include virtual="addin2.inc" -->

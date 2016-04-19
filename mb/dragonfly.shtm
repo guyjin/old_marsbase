@@ -1,0 +1,84 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Dragonfly</h1>
+      <p><a href="dragongallery.shtm" class="nav">Dragon&nbsp;Gallery</a><br>
+      
+    
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%"  cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">
+<table border="0" cellspacing="0">
+  <tr>
+    <td colspan="2">Designation: Bayaud Aerospace
+    Dragonfly<p>
+</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">Intentionally designed to be easy to repair and
+    upgrade, the Dragonfly is a logistical dream. For pilots, the McDaniel Repulsor drive is a
+    mixed blessing. While it provides excellent performance, the drive is extraordinarily
+    unforgiving of piloting errors. However, the platform is known for it's remarkable
+    manuverability and payload. Normally armed with outrigger misslepods of the ubiquitous
+    &quot;smartsticks&quot;, the Dragon fly also carries two particle accelerators. Called
+    &quot;pacs&quot; by crews, the Dragonfly is capable of rotating these along a singleplane.
+    When extended the &quot;pacs&quot; provide added stability to the craft.
+    </td>
+    <td><a href="images/dragonfly/chopgunsup.jpg"><img SRC="images/dragonfly/small/chopgunsup_small.jpg" ALT="The Dragonfly's guns, locked for firing." BORDER="0" align="middle" width="100" height="74"></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td>Shown here with &quot;pacs&quot; down, the Dragonfly
+    also shows off it's sensor pack over the main repulsor disk. Given that the
+    &quot;smartsticks&quot; have a deadly accurate attack pattern, an equally deadly targeting
+    system was needed. With the sensor mast, the Dragonfly is able to target enemy units
+    without unmasking. A manuver also used by attack helicopter pilots on Old Earth. 'Corps
+    pilots can trace their units' history back to the days of the late 20th Century (old
+    calendar).</td>
+    <td><a href="images/dragonfly/chopfltdwn.jpg"><img SRC="images/dragonfly/small/chopfltdwn_small.jpg" ALT="The Dragonfly with guns extended for stability" BORDER="0" width="100" height="75"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Given the low noise signature of the McDaniel
+    Repulsor drive, the Dragonfly is perfectly suited to a reconnaissance role. Seen here with
+    passive EM antenna in the place of the &quot;pacs&quot; the Dragonfly (renamed the Mayfly)
+    has a large signal processing computer in the place of the &quot;pacs&quot; generator.
+    &quot;Smartstick&quot; pods have been left on for defense. These pods are often removed
+    however to decrease the detectable signature of the craft and to increase range.</td>
+    <td><a href="images/dragonfly/choprecn.jpg"><img SRC="images/dragonfly/small/choprecn_small.jpg" ALT="The reequipted and renamed Mayfly" BORDER="0" width="100" height="74"></a></td>
+  </tr>
+<tr>
+    <td colspan="2" valign="top" align="left">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><p align="center"><a HREF="dragongallery.shtm">Image gallery of the Dragonfly<br>
+    </a>NOTE: These are large images and will take some time to load.<br>
+    </td>
+  </tr>
+</table>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  
+
+<!--#include virtual="addin2.inc" -->

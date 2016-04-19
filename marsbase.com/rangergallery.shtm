@@ -1,0 +1,49 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Ranger Gallery</h1>
+      
+<p> <a href="ranger.shtm" class="nav"> Ranger</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="center">
+
+<table border="0" cellspacing="0">
+  
+  <tr>
+    <td colspan="2">
+      <p align="center">
+      <font color="#C0C0C0">
+     click thumbnail to view image</p>
+</td>
+  </tr>
+  
+  <tr>
+    <td><a href="images/ranger/tankbtm.jpg"><img src="images/ranger/small/tankbtm_small.jpg" alt="tankbtm.jpg (33289 bytes)" width="100" height="74" border="0"></a>
+</td>
+    <td><a href="images/ranger/tankhtch.jpg"><img src="images/ranger/small/tankhtch_small.jpg" alt="tankhtch.jpg (24507 bytes)" width="100" height="74" border="0"></a>
+</td>
+  </tr>
+  <tr>
+    <td><a href="images/ranger/tankcntrl.jpg"><img src="images/ranger/small/tankcntrl_small.jpg" alt="tankcntrl.jpg (24484 bytes)" width="100" height="74" border="0"></a></td>
+    <td><a href="images/ranger/tankpose.jpg"><img src="images/ranger/small/tankpose_small.jpg" alt="tankpose.jpg (43185 bytes)" width="100" height="74" border="0"></a></td>
+  </tr>
+  <tr>
+    <td><a href="images/ranger/tankfront.jpg"><img src="images/ranger/small/tankfront_small.jpg" alt="tankfront.jpg (41434 bytes)" width="100" height="74" border="0"></a></td>
+    <td><a href="images/ranger/tankside.jpg"><img src="images/ranger/small/tankside_small.jpg" alt="tankside.jpg (41692 bytes)" width="100" height="74" border="0"></a></td>
+  </tr>
+</table>
+  </td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

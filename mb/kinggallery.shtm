@@ -1,0 +1,57 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Kingfisher Gallery</h1>
+      
+<p><a href="kingfisher.shtm" class="nav">Kingfisher</a><br>
+      <a href="http://www.etymon.org/kn/pallas/products/dat/kingfshr.dat" class="nav">
+      Plans - Pallas Spaceworks</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">
+<table border="0" width="75%">
+  <tr>
+    <td align="center" colspan="6"><font color="#C0C0C0">click thumbnails to
+      view images<br>
+      NOTE: Many of these image are <b><font color="#000000">VERY</b><font color="#C0C0C0">
+      large.</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="images/jericho/chingun.jpg"><img src="images/jericho/gallerythumbs/chingun_small1.jpg" alt="chingun.JPG (10209 bytes)" width="100" height="81" border="0"></a></td>
+    <td colspan="2" align="center"><a href="images/jericho/chingun2.jpg"><img src="images/jericho/gallerythumbs/chingun2_small1.jpg" alt="chingun2.JPG (18378 bytes)" width="100" height="74" border="0"></a></td>
+    <td colspan="2" align="center"><a href="images/jericho/jeriundr.jpg"><img src="images/jericho/gallerythumbs/jeriundr_small.jpg" alt="jeriundr.JPG (123974 bytes)" width="100" height="59" border="0"></a></td>
+    <td align="center"><a href="images/jericho/jericho.jpg"><img src="images/jericho/gallerythumbs/jericho_small1.jpg" alt="jericho.jpg (16977 bytes)" width="100" height="75" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="images/jericho/Jer45flt.jpg"><img src="images/jericho/gallerythumbs/Jer45flt_small.jpg" alt="Jer45flt.JPG (110733 bytes)" width="100" height="47" border="0"></a></td>
+    <td colspan="2" align="center"><a href="images/jericho/FIELD.jpg"><img src="images/jericho/gallerythumbs/FIELD_small.jpg" alt="FIELD.JPG (18399 bytes)" width="100" height="23" border="0"></a></td>
+    <td colspan="2" align="center"><a href="images/jericho/FIELD2.jpg"><img src="images/jericho/gallerythumbs/FIELD2_small.jpg" alt="FIELD2.JPG (29309 bytes)" width="100" height="29" border="0"></a></td>
+    <td align="center"><a href="images/jericho/nacelle.jpg"><img src="images/jericho/gallerythumbs/nacelle_small.jpg" alt="nacelle.JPG (28850 bytes)" width="100" height="41" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="images/jericho/Jeritail.jpg"><img src="images/jericho/gallerythumbs/Jeritail_small.jpg" alt="Jeritail.JPG (102878 bytes)" width="100" height="80" border="0"></a></td>
+    <td colspan="2" align="center"><a href="images/jericho/liftoff.jpg"><img src="images/jericho/gallerythumbs/liftoff_small.jpg" alt="liftoff.JPG (25814 bytes)" width="100" height="69" border="0"></a></td>
+    <td colspan="2" align="center"><a href="images/jericho/mngun.jpg"><img src="images/jericho/gallerythumbs/mngun_small1.jpg" alt="mngun.JPG (13109 bytes)" width="100" height="63" border="0"></a></td>
+    <td align="center"><a href="images/jericho/senssute.jpg"><img src="images/jericho/gallerythumbs/senssute_small1.jpg" alt="senssute.JPG (23455 bytes)" width="100" height="85" border="0"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="images/jericho/ramp.jpg"><img src="images/jericho/gallerythumbs/ramp_small1.jpg" alt="ramp.JPG (20776 bytes)" width="100" height="98" border="0"></a></td>
+    <td colspan="2" align="center">
+      <p align="center"><a href="images/jericho/sensorpod.jpg"><img src="images/jericho/gallerythumbs/sensorpod_small1.jpg" alt="sensorpod.JPG (13106 bytes)" width="100" height="121" border="0"></a></td>
+    <td colspan="2" align="center"><a href="images/jericho/mislpod.jpg"><img src="images/jericho/gallerythumbs/mislpod_small1.jpg" alt="mislpod.JPG (14212 bytes)" width="100" height="115" border="0"></a></td>
+  </tr>
+</table>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

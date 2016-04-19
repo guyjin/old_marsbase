@@ -1,0 +1,53 @@
+<!--#include virtual="addin1.inc" -->
+      <h1>Ronin<br>
+      Gallery</h1>
+      
+<p><a href="ronin.shtm" class="nav">Ronin</a><br>
+  <a href="roninmod.shtm" class="nav">Weapons Mod</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="center">
+      <center>
+      <table border="0" width="75%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF" nowrap>
+            <p align="center"><img border="0" src="images/white.jpg" width="10" height="10"><font color="#C0C0C0">Please
+            note: some images are over&nbsp;<br>
+            300k</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="center"><font color="#C0C0C0">(click
+            thumbnail to view image.)<br>
+            <table align="center"><tr><td align="center">
+            
+            
+            <a href="images/ronin/large/Ronin%20Front.jpg">
+            <img border="0" src="images/ronin/small/Ronin_Front_small.jpg" width="100" height="130"></a></td><td align="center">
+            <a href="images/ronin/large/Ronin%20Right%20Side.jpg">
+<img border="0" src="images/ronin/small/Ronin_Right_Side_small.jpg" width="100" height="130"></a></td><td align="center">
+            <a href="images/ronin/large/Ronin%20Back.jpg">
+<img border="0" src="images/ronin/small/Ronin_Back_small.jpg" width="100" height="130"></a></td></tr>
+<tr><td align="center">
+            <a href="images/ronin/large/openchest.jpg">
+<img border="0" src="images/ronin/small/openchest_small1.jpg" width="100" height="130"></a></td><td align="center">
+            <a href="images/ronin/large/Ronin%20Back2.jpg">
+<img border="0" src="images/ronin/small/Ronin_Back2_small.jpg" width="100" height="130"></a></td><td align="center">
+            <a href="images/ronin/large/Ronin%20Left%20Side.jpg">
+<img border="0" src="images/ronin/small/Ronin_Left_Side_small.jpg" width="100" height="130"></a></td></tr>
+<tr><td align="center" colspan=3>
+            <a href="images/ronin/large/Ronin%20Money%20Shot.jpg">
+<img border="0" src="images/ronin/small/Ronin_Money_Shot_small.jpg" width="100" height="130"></a></td></tr><td colspan=3 align="center">
+            <a href="images/ronin/large/sword.jpg">
+<img border="0" src="images/ronin/small/sword_small1.jpg" width="100" height="37"></a></td><td></td></tr></table>
+</td>
+        </tr>
+      </table>
+      </center>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

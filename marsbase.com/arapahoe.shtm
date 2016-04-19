@@ -1,0 +1,163 @@
+<!--#include virtual="addin1.inc" -->
+     
+      <h1>Arapahoe </h1>
+      
+      <p> <a href="/arapgallery.shtm" class="nav"> Arapahoe Gallery</a><br>
+        <a href="blueprints/arapahoe.dat" class="nav">Plans</a></p>
+      <td valign="top" align="left" width="100%">
+      <div align="left">
+        <table border="0" width="75%"  cellspacing="3" cellpadding="3" align="center">
+          <tr> 
+            <td> Designation: Vermach TC-4.<br>
+              <br>
+              With improved production techniques, advanced movement technology, 
+              and a significantly upgraded force-feedback system, the new Arapahoe 
+              is quickly being seen as the replacement for the <a href="crusader.shtm">Crusader</a>. 
+              While larger than the current version of the Crusader, the Arapahoe 
+              is still much smaller than the heavier and more capable <a href="ronin.shtm">Ronin</a>. 
+              However, the Arapahoe is a much more versatile chassis than either 
+              the Ronin (or it's predecessor, the <a href="kodiak.shtm">Kodiak</a>, 
+              for that matter) or the current Crusader.<br>
+              <br>
+              <hr>
+            </td>
+          </tr>
+          <tr> 
+            <td width="100%" valign="top" align="left"> <a href="images/Arapahoe/sensor.jpg"><img src="images/Arapahoe/sensor.jpg" width="100" height="163" align="right" border="0"></a>The 
+              Arapahoe houses it's primary sensors in the pod located just behind 
+              the head. This sensor suite includes the now standard Pan-spectra, 
+              Low-light, and IR packages as well as new motion and sonic detection 
+              components. The eyepiece in the head of the Arapahoe is mainly used 
+              for non-combat operation, as it houses the daylight camera system.<br>
+              <font color="#C0C0C0">(click thumbnail to view image)</font> </td>
+          </tr>
+          <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr>
+          <tr> 
+            <td width="100%" valign="top" align="left"><a href="images/Arapahoe/shouldermount.jpg"><img src="images/Arapahoe/shinmountsmall.JPG" width="100" height="62" border="0" align="right"></a><a href="images/Arapahoe/shouldermount.jpg"><img src="images/Arapahoe/shouldermountsmall.JPG" width="100" height="87" align="right" border="0"></a>One 
+              of the points that makes this chassis so versatile is the number 
+              of generic weapon mounts. With two (2) universal mounts on the shins, 
+              two (2) on the shoulders, single mounting points on top of the shoulders 
+              and a final point in the communications suite, the Arapahoe can 
+              be configured for nearly any mission, from long range recon to artillery 
+              support.<br>
+              <font color="#C0C0C0">(click thumbnail to view image)</font> </td>
+          </tr>
+          <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr>
+          <tr> 
+            <td width="100%" valign="top" align="left"><a href="images/Arapahoe/closesword.JPG"><img src="images/Arapahoe/closeswordsmall.JPG" width="100" height="87" align="right" border="0"></a>After 
+              the success of the Ronin's <a href="ronin.shtm">CLAW system</a>, 
+              a similar weapon was included in the requirements for the 'Corps' 
+              newest mecha. Seen here fully deployed, this version is hand held, 
+              rather than attached to the forearm. Energy is supplied through 
+              the high yield battery pack attached at the bottom. This pack acts 
+              as a counterweight as well.<br>
+              <font color="#C0C0C0">(click thumbnail to view image)</font> </td>
+          </tr>
+          <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr>
+          <tr> 
+            <td width="100%" valign="top" align="left"><a href="images/Arapahoe/ankle.jpg"><img src="images/Arapahoe/anklesmall.JPG" width="100" height="38" align="right" border="0"></a>Mobility 
+              is always an issue for mecha, and the Arapahoe is no different. 
+              However, after the success of the <a href="kodiak.shtm">Kodiak</a> 
+              split toe design, the feet of the <a href="ronin.shtm">Ronin</a> 
+              have not had the same level of performance. Thus, the split toe 
+              has reemerged in the Arapahoe's foot design. In addition, increase 
+              flexibility in the ankle have allowed for impressive speed gains. 
+              Unfortunately, the joints have proved to be relatively fragile requiring 
+              increase maintenance and a wary pilot during maneuvers.<br>
+              <font color="#C0C0C0">(click thumbnail to view image)</font> </td>
+          </tr>
+          <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr>
+          <tr> 
+            <td width="100%" valign="top" align="left"><a href="images/Arapahoe/knee.jpg"><img src="images/Arapahoe/kneesmall.JPG" width="100" height="102" align="right" border="0"></a>Additional 
+              changes have been made in the knees of the Arapahoe. While using 
+              similar joint technology as that of the <a href="ronin.shtm">Ronin</a>, 
+              the armor plate is flexible, allowing greater protection and increased 
+              range of motion.<br>
+              <font color="#C0C0C0">(click thumbnail to view image)</font> </td>
+          </tr>
+          <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr>
+          <tr> 
+            <td width="100%" valign="top" align="left"><a href="images/Arapahoe/fuelcell.jpg"><img src="images/Arapahoe/fuelcellsmall.JPG" width="100" height="73" border="0" align="right"></a>	
+              New fuel developments have allowed for the design of a new powerplant. 
+              Fueled by two chemicals that,while inert separately, when combined 
+              generate a tremendous energy release. These chemicals are kept in 
+              fuelcells on either side of the combustion chamber. Heat is still 
+              a problem, but nearly to the degree of the Ronin and Kodiak. <br>
+              <font color="#C0C0C0">(click thumbnail to view image)</font> </td>
+          </tr>
+          <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr>
+          <tr> 
+            <td width="100%" valign="top" align="left"><a href="images/Arapahoe/vanes.JPG"><img src="images/Arapahoe/vanessmall.JPG" width="100" height="120" border="0" align="right"></a>Aiding 
+              in the dispersion of the Arapahoe's engine heat are three high dissipation 
+              vanes, mounted on the rear of the engine pod. The cap of the combustion 
+              chamber can be seen in red in this image. The three vanes contain 
+              a tremendous amount of surface area due to the nano-fins constructed 
+              on the surface of each vane. A slow waving motion along the vanes 
+              base moves air across the vanes, causing heat to dissipate more 
+              quickly. The constant motion of the vanes has caused them to be 
+              dubbed &quot;gills&quot;. <br>
+              <font color="#C0C0C0">(click thumbnail to view image)</font> </td>
+          </tr>
+          <tr> 
+            <td valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" align="left"><a href="images/Arapahoe/rifle"><img src="images/Arapahoe/riflesmall.JPG" width="100" height="195" align="right" border="0"></a>Armament 
+              for the Arapahoe has been updated. After weaknesses were found in 
+              the Browning-Lyfeld M375 <a href="ronin.shtm">pistol</a> of the 
+              Ronin, especially to nano-chaff and related visible light jamming 
+              systems, a more reliable, less expensive weapon was specified. The 
+              result is the Maxton JPG-4. The primary armaments are twin over/under 
+              grasers. Tucked underneath the grasers is a small grenade launcher 
+              that can fire either high explosive or anti-personel rounds. However 
+              the JPG-4 can only be loaded with one or the other. Arapahoes in 
+              group exercises vary the loadout from one mecha to another so there 
+              is enough of each type of round.<br>
+              <font color="#C0C0C0">(click thumbnail to view image)</font> </td>
+          </tr>
+          <tr>
+            <td valign="top" align="left">
+              <hr>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" align="left">
+              <div align="center">Plans for the Arapahoe are now available in 
+                the <a href="instructions.shtm">Blueprints</a> archive.<br>
+                <a href="arapgallery.shtm">Image gallery of the Arapahoe</a></div>
+            </td>
+          </tr>
+        </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  
+
+<!--#include virtual="addin2.inc" -->

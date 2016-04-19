@@ -1,0 +1,314 @@
+<html>
+<head>
+<BASE HREF="http://marsbase.com/">
+
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>&gt;&gt;&gt;&gt;m a r s b a s e&lt;&lt;&lt;&lt;</title>
+<link rel="stylesheet" type="text/css" href="http://web.archive.org/web/20030709052103/http://marsbase.com/marsbasestyle.css">
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+floatX=10;
+floatY=10;
+layerwidth=125;
+layerheight=60;
+align="right";
+valign="bottom";
+delayspeed=0;
+
+// This script is copyright (c) Henrik Petersen, NetKontoret
+// Feel free to use this script on your own pages as long as you do not change it.
+// It is illegal to distribute the script as part of a tutorial / script archive.
+// Updated version available at: http://www.echoecho.com/toolfloatinglayer.htm
+// This comment and the 4 lines above may not be removed from the code.
+
+NS6=false;
+IE4=(document.all);
+if (!IE4) {NS6=(document.getElementById);}
+NS4=(document.layers);
+
+function adjust() {
+if ((NS4) || (NS6)) {
+if (lastX==-1 || delayspeed==0)
+{
+lastX=window.pageXOffset + floatX;
+lastY=window.pageYOffset + floatY;
+}
+else
+{
+dx=Math.abs(window.pageXOffset+floatX-lastX);
+dy=Math.abs(window.pageYOffset+floatY-lastY);
+d=Math.sqrt(dx*dx+dy*dy);
+c=Math.round(d/10);
+if (window.pageXOffset+floatX>lastX) {lastX=lastX+delayspeed+c;}
+if (window.pageXOffset+floatX<lastX) {lastX=lastX-delayspeed-c;}
+if (window.pageYOffset+floatY>lastY) {lastY=lastY+delayspeed+c;}
+if (window.pageYOffset+floatY<lastY) {lastY=lastY-delayspeed-c;}
+}
+if (NS4){
+document.layers['floatlayer'].pageX = lastX;
+document.layers['floatlayer'].pageY = lastY;
+}
+if (NS6){
+document.getElementById('floatlayer').style.left=lastX;
+document.getElementById('floatlayer').style.top=lastY;
+}
+}
+else if (IE4){
+if (lastX==-1 || delayspeed==0)
+{
+lastX=document.body.scrollLeft + floatX;
+lastY=document.body.scrollTop + floatY;
+}
+else
+{
+dx=Math.abs(document.body.scrollLeft+floatX-lastX);
+dy=Math.abs(document.body.scrollTop+floatY-lastY);
+d=Math.sqrt(dx*dx+dy*dy);
+c=Math.round(d/10);
+if (document.body.scrollLeft+floatX>lastX) {lastX=lastX+delayspeed+c;}
+if (document.body.scrollLeft+floatX<lastX) {lastX=lastX-delayspeed-c;}
+if (document.body.scrollTop+floatY>lastY) {lastY=lastY+delayspeed+c;}
+if (document.body.scrollTop+floatY<lastY) {lastY=lastY-delayspeed-c;}
+}
+document.all['floatlayer'].style.posLeft = lastX;
+document.all['floatlayer'].style.posTop = lastY;
+} 
+setTimeout('adjust()',50);
+}
+
+function define()
+{
+if ((NS4) || (NS6)) 
+{ 
+if (align=="left") {floatX=ifloatX};
+if (align=="right") {floatX=window.innerWidth-ifloatX-layerwidth-20};
+if (align=="center") {floatX=Math.round((window.innerWidth-20)/2)-Math.round(layerwidth/2)};
+if (valign=="top") {floatY=ifloatY};
+if (valign=="bottom") {floatY=window.innerHeight-ifloatY-layerheight};
+if (valign=="center") {floatY=Math.round((window.innerHeight-20)/2)-Math.round(layerheight/2)};
+}
+if (IE4) 
+{
+if (align=="left") {floatX=ifloatX};
+if (align=="right") {floatX=document.body.offsetWidth-ifloatX-layerwidth-20}
+if (align=="center") {floatX=Math.round((document.body.offsetWidth-20)/2)-Math.round(layerwidth/2)}
+if (valign=="top") {floatY=ifloatY};
+if (valign=="bottom") {floatY=document.body.offsetHeight-ifloatY-layerheight}
+if (valign=="center") {floatY=Math.round((document.body.offsetHeight-20)/2)-Math.round(layerheight/2)}
+}
+}
+//-->
+</script>
+
+</head>
+
+<body>
+
+<table border="0" height="100%" cellpadding="2" width="100%">
+  <tr>
+    <td valign="top" align="left" height="70" width="33">
+      <p><a href="http://www.marsbase.com"><img border="0" src="images/mbstick.gif" align="top"></a><font color="#C0C0C0"><a href="index.shtm
+" class="nav"><br>
+      <br>
+      Home</a><br>
+      <a href="timeline.shtm" class="nav">
+      Time</a><br>
+      <a href="instructions.shtm" class="nav">
+      Plans</a><br>
+      <a href="mecha.shtm" class="nav">
+      Mecha</a><br>
+      <a href="ground.shtm" class="nav">
+      Ground</a><br>
+      <a href="air.shtm" class="nav">
+      Air</a><br>
+      <a href="links.shtm" class="nav">
+      Links</a><br>
+      <a href="credits.shtm" class="nav">Credits</a><br>
+      <a href="mailto:buster@marsbase.com" class="nav">Email</a>
+      </font>
+      </p>
+    </td>
+    <td valign="top" align="left" width="3" height="100%"><img border="0" src="images/line.jpg" width="3" height="100%"></td>
+    <td valign="top" align="left" width="80">
+<h1>Arapahoe</h1>
+<p> <a href="gallery.asp?subject=Arapahoe" class="nav"> Arapahoe Gallery</a><br>
+        <!-- a href="" class="nav">Plans</a --></p>
+      <td valign="top" align="left" width="100%">
+      <div align="left">
+<table border="0" width="75%"  cellspacing="3" cellpadding="3" align="left">
+<tr>
+<td>Designation: Vermach TC-4.<br><p>
+
+With improved production techniques, advanced movement technology, and a significantly upgraded force-feedback system, the new Arapahoe is quickly being seen as the replacement for the <a href="crusader.shtm">Crusader</a>. While larger than the current version of the Crusader, the Arapahoe is still much smaller than the heavier and more capable <a href="ronin.shtm">Ronin</a>. However, the Arapahoe is a much more versatile chassis than either the Ronin (or it's predecessor, the <a href="kodiak.shtm">Kodiak</a>, for that matter) or the current Crusader.
+</td>
+</tr>
+<tr>
+<td>
+<hr>
+</td>
+</tr>
+          
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Arapahoe/head.jpg"><img src="images/Arapahoe/headsmall.jpg" align="right" border="0"></a>The Arapahoe houses it's primary sensors in the pod located just behind the head. This sensor suite includes the now standard Pan-spectra, Low-light, and IR packages as well as new motion and sonic detection components. The eyepiece in the head of the Arapahoe is mainly used for non-combat operation, as it houses the daylight camera system.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Arapahoe/shouldermount.jpg"><img src="images/Arapahoe/shouldermountsmall.jpg" align="right" border="0"></a>One of the points that makes this chassis so versatile is the number of generic weapon mounts. With two (2) universal mounts on the shins, two (2) on the shoulders, single mounting points on top of the shoulders and a final point in the communications suite, the Arapahoe can be configured for nearly any mission, from long range recon to artillery support.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Arapahoe/sword.jpg"><img src="images/Arapahoe/swordsmall.jpg" align="right" border="0"></a>After the success of the Ronin's CLAW system, a similar weapon was included in the requirements for the 'Corps' newest mecha. Seen here fully deployed, this version is hand held, rather than attached to the forearm. Energy is supplied through the high yield battery pack attached at the bottom. This pack acts as a counterweight as well.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Arapahoe/foot.jpg"><img src="images/Arapahoe/footsmall.jpg" align="right" border="0"></a>Mobility is always an issue for mecha, and the Arapahoe is no different. However, after the success of the <a href="kodiak.shtm">Kodiak</a> split toe design, the feet of the <a href="ronin.shtm">Ronin</a> have not had the same level of performance. Thus, the split toe has reemerged in the Arapahoe's foot design. In addition, increase flexibility in the ankle have allowed for impressive speed gains. Unfortunately, the joints have proved to be relatively fragile requiring increase maintenance and a wary pilot during maneuvers.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Arapahoe/knee.jpg"><img src="images/Arapahoe/kneesmall.jpg" align="right" border="0"></a>Additional changes have been made in the knees of the Arapahoe. While using similar joint technology as that of the <a href="ronin.shtm">Ronin</a>, the armor plate is flexible, allowing greater protection and increased range of motion.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Arapahoe/fuelpod.jpg"><img src="images/Arapahoe/fuelpodsmall.jpg" align="right" border="0"></a> New fuel developments have allowed for the design of a new powerplant. Fueled by two chemicals that,while inert separately, when combined generate a tremendous energy release. These chemicals are kept in fuelcells on either side of the combustion chamber. Heat is still a problem, but nearly to the degree of the Ronin and Kodiak.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Arapahoe/vanes.jpg"><img src="images/Arapahoe/vanessmall.jpg" align="right" border="0"></a>Aiding in the dispersion of the Arapahoe's engine heat are three high dissipation vanes, mounted on the rear of the engine pod. The cap of the combustion chamber can be seen in red in this image. The three vanes contain a tremendous amount of surface area due to the nano-fins constructed on the surface of each vane. A slow waving motion along the vanes base moves air across the vanes, causing heat to dissipate more quickly. The constant motion of the vanes has caused them to be dubbed "gills".
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Arapahoe/rifle.jpg"><img src="images/Arapahoe/riflesmall.jpg" align="right" border="0"></a>Armament for the Arapahoe has been updated. After weaknesses were found in the Browning-Lyfeld M375 <a href="ronin.shtm">pistol</a> of the Ronin, especially to nano-chaff and related visible light jamming systems, a more reliable, less expensive weapon was specified. The result is the Maxton JPG-4. The primary armaments are twin over/under grasers. Tucked underneath the grasers is a small grenade launcher that can fire either high explosive or anti-personel rounds. However the JPG-4 can only be loaded with one or the other. Arapahoes in group exercises vary the loadout from one mecha to another so there is enough of each type of round.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  </table>
+		
+</tr>
+</table>
+<script>
+if (NS4) {document.write('<LAYER NAME="floatlayer" LEFT="'+floatX+'" TOP="'+floatY+'">');}
+if ((IE4) || (NS6)) {document.write('<div id="floatlayer" style="position:absolute; left:'+floatX+'; top:'+floatY+';">');}
+</script>
+<img src="images/smalllabel.gif">
+<script>
+if (NS4) 
+{
+document.write('</LAYER>');
+}
+if ((IE4) || (NS6)) 
+{
+document.write('</DIV>');
+}
+ifloatX=floatX;
+ifloatY=floatY;
+define();
+window.onresize=define;
+lastX=-1;
+lastY=-1;
+adjust();
+</script>
+
+</body>
+
+
+<!-- SOME LINK HREF'S ON THIS PAGE HAVE BEEN REWRITTEN BY THE WAYBACK MACHINE
+OF THE INTERNET ARCHIVE IN ORDER TO PRESERVE THE TEMPORAL INTEGRITY OF THE SESSION. -->
+
+
+<SCRIPT language="Javascript">
+<!--
+
+// FILE ARCHIVED ON 20030709052103 AND RETRIEVED FROM THE
+// INTERNET ARCHIVE ON 20040406134443.
+// JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+// ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+// SECTION 108(a)(3)).
+
+   var sWayBackCGI = "http://web.archive.org/web/20030709052103/";
+
+   function xLateUrl(aCollection, sProp) {
+      var i = 0;
+      for(i = 0; i < aCollection.length; i++)
+         if (aCollection[i][sProp].indexOf("mailto:") == -1 &&
+             aCollection[i][sProp].indexOf("javascript:") == -1)
+            aCollection[i][sProp] = sWayBackCGI + aCollection[i][sProp];
+   }
+
+   if (document.links)  xLateUrl(document.links, "href");
+   if (document.images) xLateUrl(document.images, "src");
+   if (document.embeds) xLateUrl(document.embeds, "src");
+
+   if (document.body && document.body.background)
+      document.body.background = sWayBackCGI + document.body.background;
+
+//-->
+
+</SCRIPT>
+</html>
+

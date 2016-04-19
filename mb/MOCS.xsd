@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="MOCS" targetNamespace="http://www.tempuri.org/MOCS.xsd" xmlns:mstns="http://www.tempuri.org/MOCS.xsd" xmlns="http://www.tempuri.org/MOCS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="MOCS" msdata:IsDataSet="true">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element name="tblMOCS">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" />
+              <xs:element name="moc_name" type="xs:string" />
+              <xs:element name="moc_desig" type="xs:string" minOccurs="0" />
+              <xs:element name="team" type="xs:string" minOccurs="0" />
+              <xs:element name="instructions_filename" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tblImages">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" />
+              <xs:element name="filename" type="xs:string" minOccurs="0" />
+              <xs:element name="modelID" type="xs:int" minOccurs="0" />
+              <xs:element name="thumbnail" type="xs:string" minOccurs="0" />
+              <xs:element name="Expr1" type="xs:int" minOccurs="0" />
+              <xs:element name="imageID" type="xs:int" minOccurs="0" />
+              <xs:element name="text" type="xs:string" minOccurs="0" />
+              <xs:element name="moc_name" type="xs:string" />
+              <xs:element name="moc_desig" type="xs:string" minOccurs="0" />
+              <xs:element name="Expr2" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" />
+              <xs:element name="Expr3" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tblMOCS" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+    <xs:unique name="tblImages_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tblImages" />
+      <xs:field xpath="mstns:ID" />
+      <xs:field xpath="mstns:Expr2" />
+      <xs:field xpath="mstns:Expr3" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

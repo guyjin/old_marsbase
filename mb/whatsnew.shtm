@@ -1,0 +1,40 @@
+<!--#include virtual="addin1.inc" -->      <h1>What's New</h1>
+      
+<p><a href="index.shtm" class="nav">Home</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+        <table border="0" width="100%" cellspacing="3" cellpadding="3">
+          <tr> 
+            <td width="100%" align="left" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+          </tr>
+		  <tr> 
+            <td width="100%" align="left">6/3/2001: Added the <a href="display.asp?subject=LongTom">LongTom</a> 
+              to the mecha pages.</td>
+          </tr>
+		  <tr> 
+            <td width="100%" align="left">6/3/2001: Updated the <a href="display.asp?subject=Copperhead">Copperhead</a> mecha pages.</td>
+          </tr>
+          <tr> 
+            <td width="100%" align="left">2/26/2001: Added the <a href="display.asp?subject=Arapahoe">Arapahoe</a> 
+              to the mecha pages.</td>
+          </tr>
+          <tr>
+            <td width="100%" align="left">8/27/2000: Added to the <a href="/credits.shtm">Credits</a> 
+              page.</td>
+          </tr>
+          <tr> 
+            <td width="100%" align="left">8/20/2000: Uploaded <a href="/macparts.shtm">Macintosh 
+              LCAD Part files</a>. </td>
+          </tr>
+          <tr> 
+            <td width="100%" align="left">8/8/2000: New Layout.&nbsp; TaDa!</td>
+          </tr>
+        </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

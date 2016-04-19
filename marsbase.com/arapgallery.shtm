@@ -1,0 +1,71 @@
+<!--#include virtual="addin1.inc" -->
+     
+      <h1>Arapahoe Gallery</h1>
+      
+      <p> <a href="/arapahoe.shtm" class="nav"> Arapahoe</a><br>
+        <a href="blueprints/arapahoe.dat" class="nav">Plans</a></p>
+      <td valign="top" align="left" width="100%">
+      <div align="left">
+        <table border="0" width="100%" height="110%" cellspacing="3" cellpadding="3">
+          <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10">
+              <table border="0" cellpadding="2" cellspacing="2" align="center" width="50%">
+                <tr> 
+                  <td valign="Top"> 
+                    <center>
+                      <a name="Arapahoe00.jpg"></a> <a href="images/Arapahoe/big/Arapahoe00.jpg" title="Arapahoe00.jpg (573 K) "><img src="images/Arapahoe/big/mini/Arapahoe00small.jpg" border="0" alt="Arapahoe00.jpg (573 K)" width="133" height="100"></a> 
+                      <a href="images/Arapahoe/big/Arapahoe00.jpg"><br>
+                      Arapahoe00.jpg</a> 
+                    </center>
+                  </td>
+                  <td valign="Top"> 
+                    <center>
+                      <a name="Arapahoe01.JPG"></a> <a href="images/Arapahoe/big/Arapahoe01.JPG" title="Arapahoe01.JPG (220 K) "><img src="images/Arapahoe/big/mini/Arapahoe01small.jpg" border="0" alt="Arapahoe01.JPG (220 K)" width="125" height="100"></a> 
+                      <a href="images/Arapahoe/big/Arapahoe01.JPG"><br>
+                      Arapahoe01.JPG</a> 
+                    </center>
+                  </td>
+                  <td valign="Top"> 
+                    <center>
+                      <a name="Arapahoe02.jpg"></a> <a href="images/Arapahoe/big/Arapahoe02.jpg" title="Arapahoe02.jpg (367 K) "><img src="images/Arapahoe/big/mini/Arapahoe02small.jpg" border="0" alt="Arapahoe02.jpg (367 K)" width="133" height="100"></a> 
+                      <a href="images/Arapahoe/big/Arapahoe02.jpg"><br>
+                      Arapahoe02.jpg</a> 
+                    </center>
+                  </td>
+                  <td valign="Top"> 
+                    <center>
+                      <a name="Arapahoe03.jpg"></a> <a href="images/Arapahoe/big/Arapahoe03.jpg" title="Arapahoe03.jpg (252 K) "><img src="images/Arapahoe/big/mini/Arapahoe03small.jpg" border="0" alt="Arapahoe03.jpg (252 K)" width="68" height="100"></a> 
+                      <a href="images/Arapahoe/big/Arapahoe03.jpg"><br>
+                      Arapahoe03.jpg</a> 
+                    </center>
+                  </td>
+                  <td valign="Top"> </td>
+                </tr>
+                <tr> 
+                  <td valign="Top">&nbsp;</td>
+                  <td valign="Top" colspan="2">
+                    <div align="center"><a href="images/Arapahoe/big/sword.JPG"><img src="images/Arapahoe/big/mini/swordsm.JPG" border="0"></a><br>
+                      <a href="images/Arapahoe/big/sword.JPG">Arapahoe04.jpg </a></div>
+                  </td>
+                  <td valign="Top">&nbsp;</td>
+                  <td valign="Top"></td>
+                </tr>
+              </table>
+              <div align="center"><br>
+                <br>
+                Please be aware, these images are <b>+200K. Each. </b></div>
+            </td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">
+          
+        </td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  
+
+<!--#include virtual="addin2.inc" -->

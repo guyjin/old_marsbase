@@ -1,0 +1,94 @@
+<!--#include virtual="addin1.inc" -->      <h1>Ronin<br>
+      WeaponsMod</h1>
+      
+<p><a href="ronin.shtm" class="nav">Ronin</a><br>
+  <a href="roningallery.shtm" class="nav">Ronin Gallery</a><br>
+  <a href="instructions.shtm" class="nav">Plans</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">
+<div align="center">
+  <center>
+<table border="0" width="75%">
+  <tr>
+    <td>Following an argument with fellow engineers and design specialists, Ferdinand
+d' Larco, the head of the Ronin's initial development and construction, set out
+to prove his collegues wrong.&nbsp; d'Larco had argued that the Ronin chassis
+was capable of handling a much heavier weapons load, with no harm to the
+internal structure.&nbsp; Though he was overruled during the initial design and
+construction, d'Larco, in a fit of pique, later refitted the prototype with a
+Focused Coil Particle Cannon.&nbsp; Normally fitted to capital spacecraft in
+secondary batteries, this cannon is by far the largest ever mounted on a mecha
+in the history of the ULF, or the Lego Confederation before it.
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="images/ronin/refit/RoninModFull2.JPG"><img border="0" src="images/ronin/small/RoninModFull2_small.JPG" width="100" height="120" align="right"></a>Seen here fully deployed, the FCPC remains in a fixed position.&nbsp;
+      The entire torso must be repositioned to aim the cannon.&nbsp; On another
+      note, one may see the Ronin's beam cannon, which has yet to be deployed in
+      the field, attached to the right thigh.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td><a href="images/ronin/refit/RoninModfull.JPG"><img border="0" src="images/ronin/small/RoninModfull_small.JPG" width="100" height="95" align="right"></a>Here, the Ronin is preparing to test fire the cannon.&nbsp; As this is a
+      ponderous weapon to aim and tracking moving targets offers some
+      difficulties, this modification would normally be intended for long range
+      support of other units, rather than close unit actions.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td><a href="images/ronin/refit/RoninBeamRifle.JPG"><img border="0" src="images/ronin/small/RoninBeamRifle_small.JPG" align="right" width="100" height="130"></a>Seen here is the Ronin's beam rile.&nbsp; Due to early teething
+      problems, the rifle was never deployed.&nbsp; However, later work
+      rectified the issues.&nbsp; SpaceCorps planners are looking into the
+      future deployment of the rifle.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td><a href="images/ronin/refit/RoninBeamRifle2.JPG"><img border="0" src="images/ronin/small/RoninBeamRifle2_small.JPG" align="right" width="100" height="90"></a>Another view of the beam rifle also shows the mounting pin on the right
+      thigh.&nbsp; This allows the rifle to be stowed, but kept at the ready.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td><a href="images/ronin/refit/RoninModBarrel.JPG"><img border="0" src="images/ronin/small/RoninModBarrel_small.JPG" align="right" width="100" height="143"></a>An up close shot of the lens assembly of the Focused Coil Particle
+      Cannon.&nbsp; If this was a solid assembly rather than a framework, the
+      Ronin would have very little chance of supporting the weapon, let alone
+      remaining upright.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td><a href="images/ronin/refit/RoninModPortArms.JPG"><img border="0" src="images/ronin/small/RoninModPortArms_small.JPG" align="right" width="100" height="154"></a>Seen here with the FCPC at port arms, the true size of the weapon
+      becomes apparent.&nbsp; As tall as the Ronin itself, the FCPC is truely a
+      formidable weapon.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+  <tr>
+    <td><a href="images/ronin/refit/RoninModOver.JPG"><img border="0" src="images/ronin/small/RoninModOver_small.JPG" align="right" width="100" height="134"></a>And finally, an overhead view of the Ronin with the FCPC deployed.<br>
+      <font color="#C0C0C0">
+     (click thumbnail to view image)</td>
+  </tr>
+</table>
+  </center>
+</div>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

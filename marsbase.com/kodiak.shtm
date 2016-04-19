@@ -1,0 +1,74 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Kodiak</h1>
+      
+<p><a href="kodgallery.shtm" class="nav">Kodiak Gallery</a><br>
+  <a href="Kodiakbattle.shtm" class="nav"> After Action</a><br>
+  <a href="instructions.shtm" class="nav">Plans</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">
+<table cellspacing="0" border="0" cellpadding="0">
+  
+  <tr>
+    <td colspan="2">Designation: Johann Maus Metal Works JM-2 "Kodiak"
+
+</td>
+  </tr>
+  <tr><td colspan=2><HR></td></tr
+  ><tr>
+    <td>The Kodiak is one of the latest entrants to the growing Mecha forces of the SpaceCorps.  Classed as a medium mech, the Kodiak is intended to replace the venerable Badger.  However, during initial training exercises, Kodaiks and Badgers operated in concert with suprisingly successful results.  Consequently, the 'Corps is considering a program to bring the aging Badgers up to date.  Mixed units of Kodiaks and Badgers are in the planning stages.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><a href="images/kodiakpov/kodthumb/kodposeth.jpg"><img src="images/kodiakpov/small/kodposeth_small.jpg" border=0 alt="J. Maus Metal Works' Kodiak" width=100 height=137></a></td>
+  </tr>
+  <tr><td colspan=2><HR></td></tr>
+  <tr>
+    <td>The Kodiak accomodates a single pilot as all other 'Corps mechs do.  On either side of the center chest plate can be seen the enhanced sensor pods that give the Kodiak some of it's long range effectiveness.  Combined with the Kodiak's head mounted site with it's IR/UV/LL (Low light) capabilities, the Kodiak is able to maintain awareness of it's environment in any conditions.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><a href="images/kodiakpov/kodthumb/kodtorso.jpg"><img src="images/kodiakpov/small/kodtorso_small.jpg" border=0 alt="The Crusader's open canopy." width=100 height=102></a></td>
+  </tr>
+  <tr><td colspan=2><HR></td></tr
+  ><tr>
+    <td>The Kodiak carries several weapon systems internally, but is capable of being outfitted with a startlingly wide array of equipment.  This photo shows the Kodiak's munition ejection racks on the front of each shoulder.  These racks offer several different options to the kodiak pilot, with each rack being fed by the internal storage bays in each shoulder bay.  Included in the options are full spectra smoke (heat and light masking), ECM (Electronic Counter Measures), and several choices of 'hot' munitions from anti-personnel to armor piercing rocket powered grenades.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><a href="images/kodiakpov/kodthumb/kodshold.jpg"><img src="images/kodiakpov/small/kodshold_small.jpg" border=0 alt width=100 height=102></a></td>
+  </tr>
+  <tr><td colspan=2><HR></td></tr
+  ><tr>
+    <td>Another interesting developments is the use of Coalesced Energy Fields.  Using the emitter on the left forearm, the Kodiak can generate a sizeable energy shield for defense.  The energy based nature of this shield requires a relatively large amount of power, but offers tremendous protective ability without the need to further weigh down the mech with armor.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><a href="images/kodiakpov/kodthumb/kodprofileth.jpg"><img src="images/kodiakpov/small/kodprofileth_small.jpg" border=0 alt width=100 height=159></a></td>
+  </tr>
+  <tr><td colspan=2><HR></td></tr
+  ><tr>
+    <td>Seen here in the Kodiak's right hand, the Heckler-Koch AR9-MkV semi-automatic heavy assault rifle, is often the weapon of choice for Kodiak pilots.  The large range of ammunition options coupled with the light weight of the ammunition clips themselves gives the Kodiak a weapon with massive hitting power without relying on and external power source as the left arm mounted Maser does.  Kodiak pilots seem to be more comfortable with the added hitting power and dependability of this combination.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><a href="images/kodiakpov/kodthumb/rifle.jpg"><img src="images/kodiakpov/small/rifle_small.jpg" border=0 alt width=100 height=102></a></td>
+  </tr>
+  <tr><td colspan=2><HR></td></tr
+  ><tr>
+    <td>The Kodiak leverages several technologies from previous mecha.  Seen here is the hip joint that is also used by the Rapier.  Licensing of this technology from Makros has allowed for more rapid development and consequently, quicker deployment.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><a href="images/kodiakpov/kodthumb/kodkneesd.jpg"><img SRC="images/kodiakpov/small/kodkneesd_small.jpg" BORDER=0 ALT width=100 height=102></a></td>
+  </tr>
+  <tr><td colspan=2><HR></td></tr
+></table>
+
+<table width="100%">
+  <tr>
+              <td ALIGN="CENTER" width="596">Plans for the Kodiak are now available in the 
+                <a HREF="instructions.shtm">Blueprints</a> archive.<br>
+                <a HREF="kodgallery.shtm">Image gallery of the Kodiak</a><br>
+                <a href="Kodiakbattle.shtm"> Images of the Kodiak taken following 
+                the battle of Tremor VIII</a></td>
+  </tr>
+</table>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

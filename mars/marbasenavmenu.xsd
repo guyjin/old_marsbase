@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="NavMenu">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="MenuEntry"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="MenuEntry">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="HeadingTitle"/>
+        <xs:element ref="HeadingURL"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="SubHeading"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="HeadingTitle" type="xs:NCName"/>
+  <xs:element name="HeadingURL" type="xs:string"/>
+  <xs:element name="SubHeading">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="SubTitle"/>
+        <xs:element ref="SubURL"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SubTitle" type="xs:NCName"/>
+  <xs:element name="SubURL" type="xs:string"/>
+</xs:schema>

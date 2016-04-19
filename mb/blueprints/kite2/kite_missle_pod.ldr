@@ -1,0 +1,48 @@
+0 FILE Kite_missle_pod.ldr
+0 dorsal mount missle pod
+0 Name: Kite_missle_pod.ldr
+0 Author: Ben Vaughan
+0 Unofficial Model
+1 1 0 -110.585793 -21.414204 1 0 0 0 0 1 0 -1 0 3001.dat
+1 1 0 -70.585785 -21.414207 1 0 0 0 0 1 0 -1 0 3001.dat
+0 STEP
+1 1 20 -90.585785 2.585789 0 0 1 -1 0 0 0 -1 0 3001.dat
+1 1 -20 -90.585785 2.585789 0 0 1 -1 0 0 0 -1 0 3001.dat
+0 STEP
+1 1 0 -70.585785 26.585787 -1 0 0 0 0 -1 0 -1 0 3001.dat
+1 1 0 -110.585785 26.585787 -1 0 0 0 0 -1 0 -1 0 3001.dat
+0 STEP
+1 0 -10 -80.585785 98.585785 -1 -0 0 0 -0 -1 0 -1 0 3685.dat
+1 0 -10 -100.585785 98.585785 0 0 1 -1 -0 0 0 -1 0 3685.dat
+1 0 10 -100.585785 98.585785 1 0 0 0 0 1 0 -1 0 3685.dat
+1 0 10 -80.585785 98.585785 0 -0 -1 1 0 0 0 -1 0 3685.dat
+1 7 0 -90.585785 106.585785 0 -0 -1 1 0 0 0 -1 0 3068bp07.dat
+0 STEP
+1 15 20 0 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 20 19 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 40 19 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 60 19 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 60 59 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 40 59 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 20 59 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 0 59 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 0 59 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 0 19 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 40 0 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 60 0 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 60 40 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 40 40 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 20 40 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 0 40 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 0 40 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+1 15 0 0 0 1 0 0 0 1 0 -0 0 1 kite_missle_pod_missle_tip.ldr
+0 STEP
+0 NOFILE
+0 FILE kite_missle_pod_missle_tip.ldr
+0 missle tip
+0 Name: kite_missle_pod_missle_tip.ldr
+0 Author: Ben Vaughan
+0 Unofficial Model
+1 79 -30 -120.585785 -47.414215 0 0 -1 0 -1 -0 -1 0 -0 32002.dat
+1 15 -30 -120.585785 -48.414215 -0.707107 -0 -0.707107 -0.707107 0 0.707107 0 1 -0 4770.dat
+0 NOFILE

@@ -1,0 +1,56 @@
+<!--#include virtual="addin1.inc" -->
+     
+<h1>Valkyrie Gallery</h1>
+      
+<p> <a href="valkyrie.shtm" class="nav"> Valkyrie</a></p>
+    
+    <td valign="top" align="left" width="100%">
+      
+  <div align="left"> 
+    <table border="0" cellspacing="3" cellpadding="3" width="100%">
+      <tr>
+          
+        <td valign="top" align="left" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          
+        <td valign="top" align="left"> 
+          <div align="center"> <font color="#CCCCCC">Please note: some images 
+            are over<br>
+            300k<br> (click 
+            thumbnail to view image.) </font> </div>
+          <table border="0" width="216" align="center">
+            <tr> 
+              <td> 
+                <p align="left"><a href="images/valkyrie/valkfront.jpg"><img src="images/valkyrie/valkfront.jpg" border="0" alt width="100" ></a></p>
+              </td>
+              <td><a href="images/valkyrie/valkawacsfrnt.jpg"><img src="images/valkyrie/valkawacsfrnt.jpg" border="0" alt width="100" ></a></td>
+            </tr>
+            <tr> 
+              <td valign="top"> <a href="images/valkyrie/valkawacs.jpg"><img src="images/valkyrie/valkawacs.jpg" border="0" alt width="100" ></a> 
+              </td>
+              <td valign="top"><a href="images/valkyrie/portpilot.jpg"><img src="images/valkyrie/portpilot.jpg" border="0" alt width="100" ></a></td>
+            </tr>
+            <tr> 
+              <td valign="top"> <a href="images/valkyrie/gunpodbak.jpg"><img src="images/valkyrie/gunpodbak.jpg" border="0" alt width="100" ></a> 
+              </td>
+              <td valign="top"><a href="images/valkyrie/chingunbak.jpg"><img src="images/valkyrie/chingunbak.jpg" border="0" alt width="100" ></a></td>
+            </tr>
+            <tr valign="top"> 
+              <td colspan="2" align="center"> <a href="images/valkyrie/awacsbottom.jpg"><img src="images/valkyrie/awacsbottom.jpg" border="0" alt width="100"></a> 
+              </td>
+            </tr>
+            <tr> 
+              <td align="CENTER" colspan="2"></td>
+            </tr>
+          </table>
+        </td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  
+
+<!--#include virtual="addin2.inc" -->

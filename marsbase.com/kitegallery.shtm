@@ -1,0 +1,62 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Kite Gallery</h1>
+      
+<p><a href="kite.shtm" class="nav">Kite</a><br>
+  <a href="instructions.shtm" class="nav"> Plans</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="center">
+
+<table>
+  
+  <tr>
+    <td colspan="2">
+      <p align="center"><font color="#C0C0C0">click thumbnails to view images
+</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="images/kite/cpitbrace.jpg"><img SRC="images/kite/gallerythumbs/cpitbrace_small.jpg" BORDER="0" alt width="100" height="75"></a></td>
+    <td valign="top"><a href="images/kite/flite.jpg"><img SRC="images/kite/gallerythumbs/flite_small.jpg" BORDER="0" alt width="100" height="75"></a></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="images/kite/flite2.jpg"><img SRC="images/kite/gallerythumbs/flite2_small.jpg" BORDER="0" alt width="100" height="75"></a>
+    </td>
+    <td valign="top"><a href="images/kite/gun.jpg"><img SRC="images/kite/gallerythumbs/gun_small.jpg" BORDER="0" alt width="100" height="75"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="images/kite/irgear.jpg"><img SRC="images/kite/gallerythumbs/irgear_small.jpg" BORDER="0" alt align="top" width="100" height="75"></a>
+    </td>
+    <td valign="top"><a href="images/kite/kiteobliq.jpg"><img SRC="images/kite/gallerythumbs/kiteobliq_small.jpg" BORDER="0" alt width="100" height="75"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="images/kite/mislpod.jpg"><img SRC="images/kite/gallerythumbs/mislpod_small.jpg" BORDER="0" alt width="100" height="75"></a>
+    </td>
+    <td valign="top"><a href="images/kite/prtmislrck.jpg"><img SRC="images/kite/gallerythumbs/prtmislrck_small.jpg" BORDER="0" alt width="100" height="75"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="images/kite/starengmnt.jpg"><img SRC="images/kite/gallerythumbs/starengmnt_small.jpg" BORDER="0" alt width="100" height="75"></a>
+    </td>
+    <td valign="top"><a href="images/kite/starengopen.jpg"><img SRC="images/kite/gallerythumbs/starengopen_small.jpg" BORDER="0" alt width="100" height="75"></a>
+    </td>
+  </tr>
+</table>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

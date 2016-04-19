@@ -1,0 +1,76 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Airbike</h1>
+      
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="center">
+		<table cellpadding="0" cellspacing="0" border="0" width="75%">
+			
+			<tr>
+				<td valign="top" align="left" colspan="2">Designation: Hycar RJ753-Y Gnat
+                  <p>&nbsp;</p>
+
+					</td>
+			</tr>
+			<tr>
+				<td>Originally fitted with the older F-series repulsor drive, the Gnat's have all been upgraded to the newer more efficient H-series. Converter efficiency is significantly improved, giving a quieter, more stable ride. Much of the electronics are housed in the shielded nosecone. Embedded in the nose also are a pair of particle analyzers. Able to detect the particulate residue from Spyrius vehicles, the Gnat can even postulate the type of vehicle. Additional visual and spectral detection equipment is mounted on the weapons arm, directly below the laser.<br>
+                  <font color="#C0C0C0">(click thumbnail to view image.)</td>
+				<td align="center">
+                  <p align="center"><a href="../images/airbike/bikepower.jpg"><img src="images/airbike/bikepowersm.jpg" alt="The Gnat's Repulsor drive." border="0" width="150" height="200"></a></p>
+                </td>
+			</tr>
+			<tr>
+				<td colspan="2">
+                  <hr>
+                </td>
+			</tr>
+			<tr>
+				<td>Armed as it is with only the Gurrnan L-4K Light Laser, the Gnat is ill equipped to face any serious opposition. However, as it's mission is observatiion only, the pilot that finds themselves facing armed troops has not done their job. The laser is battery powered leaving the powerplant's output strictly for propulsion. The battery can be seen atop the laser itself. Using a molecular pull down storage grid, the battery is available for up to twenty shots. Usually, pilots do not carry spares as they are extremely heavy and lower the bike's performance.<br>
+                  <font color="#C0C0C0">(click thumbnail to view image.)</td>
+				<td><a href="../images/airbike/bikegun.jpg"><img src="images/airbike/bikegunsm.jpg" border="0" width="200" height="150"></a></td>
+			</tr>
+			<tr>
+				<td colspan="2">
+                  <hr>
+                </td>
+			</tr>
+
+			<tr>
+				<td>Beside the particle analysis gear, the Gnat's nosecone houses the majority of the bike's electronics and control gear. Included are the inertial navigation systems, realtime sat uplink transmitters (Called Peeping Tom, by the systems users) and the actual drive control instruments and inputs. Additionally, the nose casing itself is heavily shielded providing not only protection for the bike's electronics, but also some for the pilot.<br>
+                  <font color="#C0C0C0">(click thumbnail to view image.)</td>
+				<td align="left"><a href="../images/airbike/bikenose.jpg"><img src="images/airbike/bikenosesm.jpg" alt="The Gnat's nosecone" border="0" width="200" height="150"></a></td>
+			</tr>
+			<tr>
+				<td colspan="2">
+                  <hr>
+                </td>
+			</tr>
+
+			<tr>
+				<td>The Gnat is seen here crossing some normally challenging terrain. The repulsor drive has given the Gnat a wide range of operation. With this drive,the Gnat has even operated over large open bodies of water, returning to a mobile base for rearming and replacement pilots. Seen here alone, the Gnat normally operates in pairs or occaisionally trios for more security. With the low noise signature of the drive, these bikes can still maintain a stealthy profile even en masse.<br>
+                  <font color="#C0C0C0">(click thumbnail to view image.)</td>
+				<td><a href="../images/airbike/bilkeflt.jpg"><img src="images/airbike/bilkefltsm.jpg" border="0" alt="The Gnat in a hover." width="200" height="150"></a></td>
+			</tr>
+			<tr>
+				<td colspan="2">
+                  <hr>
+                </td>
+			</tr>
+
+		</table>
+         </td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

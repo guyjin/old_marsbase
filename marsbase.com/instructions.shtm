@@ -1,0 +1,46 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Plans</h1><br>
+      <a href="/macparts.shtm" class="nav">Macintosh<br>
+      Part Files </a></td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+        <table border="0" cellspacing="3" cellpadding="3">
+          <tr>
+            <td valign="top" align="left" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+            <td valign="top" align="left"> 
+              <table border="0">
+                <tr>
+                  <td>
+                    <ul>
+                      <li><a href="blueprints/kite.dat">VAC-9 Kite</a></li>
+                      <li><a href="blueprints/scoutpln.zip">Jeep</a></li>
+                      <li><a href="blueprints/marauder.zip">Marauder Hard Suit</a></li>
+                      <li><a href="blueprints/crusader.zip">HMS Crusader</a></li>
+                      <li><a href="blueprints/kodiak.zip">Kodiak</a></li>
+                      <li><a href="blueprints/jericho.zip">Kingfisher</a></li>
+                      <li><a href="blueprints/ronin.dat">Ronin</a> (be sure to 
+                        the download the <a href="blueprints/balljoint.dat">balljoint.dat</a> 
+                        for the Ronin as well).</li>
+                      <li><a href="blueprints/arapahoe.dat">Arapahoe</a></li>
+                    </ul>
+    </td>
+  </tr>
+  <tr>
+                  <td>NOTE: Some of these instructions are in the <a HREF="http://www.ldraw.org" target="_top">LDraw</a> 
+                    .dat format. To view them you will need Ldraw and all the 
+                    latest part packs.&nbsp; Or use <a href="http://www.user.xpoint.at/m.lachmann/MLCad/">MLCAD</a> 
+                    for windows!</td>
+  </tr>
+</table>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

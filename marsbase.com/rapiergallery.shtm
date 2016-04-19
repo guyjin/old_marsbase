@@ -1,0 +1,83 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Rapier<br>Gallery</h1>
+      
+<p><a href="rapier.shtm" class="nav">Rapier</a><br>
+  <a href="instructions.shtm" class="nav"> Plans</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">
+<table border="0" cellspacing="1">
+  
+  <tr>
+    <td align="left" colspan="3">
+      <table width="100%">
+        <tbody>
+          <tr>
+            <td align="center" bgColor="#ffffff" height="15" noWrap vAlign="top" width="100%">
+              <p align="center"><img border="0" height="10" src="images/white.jpg" width="10"><font color="#c0c0c0">Please
+              note: some images are over&nbsp;<br>
+              300k</p>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" vAlign="top" width="100%"><font color="#c0c0c0">(click
+              thumbnail to view image.)</td>
+          </tr>
+        </tbody>
+      </table>
+</td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"><a href="images/rapier/rapier1.JPG"><img SRC="images/rapier/small/rapier1_small.JPG" BORDER="0" align="left" width="100" height="133"></a></td>
+    <td valign="top" align="left"><a href="images/rapier/rapier4.JPG"><img SRC="images/rapier/small/rapier4_small.JPG" BORDER="0" align="left" width="100" height="133"></a></td>
+    <td valign="top" align="left"><a href="images/rapier/rapier5.JPG"><img SRC="images/rapier/small/rapier5_small.JPG" BORDER="0" align="left" width="100" height="133"></a></td>
+  </tr>
+  <tr ALIGN="RIGHT">
+    <td valign="top" align="left"><a href="images/rapier/rapier6.JPG"><img SRC="images/rapier/small/rapier6_small.JPG" BORDER="0" align="left" width="100" height="133"></a><br>
+    </td>
+    <td valign="top" align="left"><a href="images/rapier/rapier7.JPG"><img SRC="images/rapier/small/rapier7_small.JPG" BORDER="0" align="left" width="100" height="133"></a>
+    </td>
+    <td valign="top" align="left"><a href="images/rapier/rapier8.JPG"><img SRC="images/rapier/small/rapier8_small.JPG" BORDER="0" align="left" width="100" height="133"></a>
+    </td>
+  </tr>
+  <tr ALIGN="RIGHT">
+    <td valign="top" align="left"><a href="images/rapier/back.jpg"><img SRC="images/rapier/small/back_small.jpg" BORDER="0" width="100" height="75"></a>
+    </td>
+    <td valign="top" align="left"><a href="images/rapier/hatch.jpg"><img SRC="images/rapier/small/hatch_small.jpg" BORDER="0" width="100" height="75"></a>
+    </td>
+    <td valign="top" align="left"><a href="images/rapier/head.jpg"><img SRC="images/rapier/small/head_small.jpg" BORDER="0" width="100" height="75"></a>
+    </td>
+  </tr>
+  <tr ALIGN="RIGHT">
+    <td valign="top" align="left"><a href="images/rapier/hip.jpg"><img SRC="images/rapier/small/hip_small.jpg" BORDER="0" width="100" height="75"></a>
+    </td>
+    <td valign="top" align="left"><a href="images/rapier/mslpod.jpg"><img SRC="images/rapier/small/mslpod_small.jpg" BORDER="0" width="100" height="75"></a>
+    </td>
+    <td valign="top" align="left"><a href="images/rapier/rtelbow.jpg"><img SRC="images/rapier/small/rtelbow_small.jpg" BORDER="0" width="100" height="75"></a>
+    </td>
+  </tr>
+  <tr ALIGN="RIGHT">
+    <td valign="top" align="left"><br>
+    </td>
+    <td valign="top" align="left"><a href="images/rapier/undrsholdr.jpg"><img SRC="images/rapier/small/undrsholdr_small.jpg" BORDER="0" width="100" height="75"></a>
+    </td>
+    <td valign="top" align="left">
+    </td>
+  </tr>
+</table>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

@@ -1,0 +1,24 @@
+<!--#include virtual="addin1.inc" -->
+     
+<h1>Macintosh Part Files</h1>
+    
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">These files may be used with Macintosh based LCAD software.<br>
+Currently, there is only one package available.  It can be downloaded from <a href="http://www.ldraw.org">Ldraw.org</a>. 
+            <p><a href="/macpartfiles/ldrawparts.sit.hqx">Binhex</a> (hqx)</p>
+            <p><a href="/macpartfiles/ldrawparts.sit">Stuffit</a> (sit) Stuffit Expander is available for MacOS and Windows.  Get it from <a href="http://www.aladdinsys.com">Aladdin Software</a></p>
+            <p><a href="/macpartfiles/ldrawparts.sea">Self Extracting</a> (sea)</p>
+          </td>
+        </tr>
+      </table>
+    </div>
+    </td>
+  
+
+<!--#include virtual="addin2.inc" -->

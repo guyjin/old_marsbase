@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NavMenu SYSTEM "marbasenavmenu.dtd">
+<?xml-stylesheet type="text/xsl" href="marsnavmenu.xsl"?>
+<NavMenu>
+    <MenuEntry>
+        <HeadingTitle>home</HeadingTitle>
+        <HeadingURL>/</HeadingURL>
+        <SubHeading>
+            <SubTitle>notes</SubTitle>
+            <SubURL>/notes/</SubURL>
+        </SubHeading>
+    </MenuEntry>
+    <MenuEntry>
+        <HeadingTitle>mecha</HeadingTitle>
+        <HeadingURL>/mecha/</HeadingURL>
+        <SubHeading>
+            <SubTitle>arapahoe</SubTitle>
+            <SubURL>/mecha/arapahoe/</SubURL>
+        </SubHeading>
+        <SubHeading>
+            <SubTitle>copperhead</SubTitle>
+            <SubURL>/mecha/copperhead/</SubURL>
+        </SubHeading>
+    </MenuEntry>
+    <MenuEntry>
+        <HeadingTitle>ground</HeadingTitle>
+        <HeadingURL>/ground/</HeadingURL>
+        <SubHeading>
+            <SubTitle>ranger</SubTitle>
+            <SubURL>/ground/ranger/</SubURL>
+        </SubHeading>
+    </MenuEntry>
+    <MenuEntry>
+        <HeadingTitle>air</HeadingTitle>
+        <HeadingURL>/air/</HeadingURL>
+        <SubHeading>
+            <SubTitle>dragonfly</SubTitle>
+            <SubURL>/air/dragonfly/</SubURL>
+        </SubHeading>
+    </MenuEntry>
+</NavMenu>

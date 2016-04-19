@@ -1,0 +1,80 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Gekko Gallery</h1>
+      
+<p><a href="gekko.shtm" class="nav"> Gekko</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">
+<div align="center">
+  <center>
+  <table>
+    <tr>
+      <td align="middle" bgColor="#ffffff" height="15" noWrap vAlign="top" width="100%">
+        <p align="center"><font color="#c0c0c0">Please note: some images are
+        large.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="middle" vAlign="top" width="100%">
+        <p align="center"><font color="#c0c0c0">(click thumbnail to view image.)</p>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+<div align="center">
+  <center>
+<table border="0" width="320">
+  
+  <tr>
+    <td width="34%">
+      <p align="center"><a href="images/Gekko/gekeng.jpg"><img src="images/Gekko/small/gekeng_small.jpg" alt="gekeng.jpg (16509 bytes)" width="100" height="75" border="0"></a></p>
+    </td>
+    <td width="33%">
+      <p align="center"><a href="images/Gekko/gekfoot.jpg"><img src="images/Gekko/small/gekfoot_small.jpg" alt="gekfoot.jpg (15290 bytes)" width="100" height="75" border="0"></a></p>
+    </td>
+    <td width="33%">
+      <p align="center"><a href="images/Gekko/gekfrnt.jpg"><img src="images/Gekko/small/gekfrnt_small.jpg" alt="gekfrnt.jpg (18607 bytes)" width="100" height="75" border="0"></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="34%">
+      <p align="center"><a href="images/Gekko/gekgun.jpg"><img src="images/Gekko/small/gekgun_small.jpg" alt="gekgun.jpg (18471 bytes)" width="100" height="75" border="0"></a></p>
+    </td>
+    <td width="33%">
+      <p align="center"><a href="images/Gekko/gekhip.jpg"><img src="images/Gekko/small/gekhip_small.jpg" alt="gekhip.jpg (17668 bytes)" width="100" height="75" border="0"></a></p>
+    </td>
+    <td width="33%">
+      <p align="center"><a href="images/Gekko/gekpod.jpg"><img src="images/Gekko/small/gekpod_small.jpg" alt="gekpod.jpg (17699 bytes)" width="100" height="75" border="0"></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="34%">
+      <p align="center"><a href="images/Gekko/geksd.JPG"><img src="images/Gekko/small/geksd_small.JPG" alt="geksd.jpg (25940 bytes)" width="100" height="75" border="0"></a></p>
+    </td>
+    <td width="33%">
+      <p align="center"><a href="images/Gekko/gkftbnt.jpg"><img src="images/Gekko/small/gkftbnt_small.jpg" alt="gkftbnt.jpg (12335 bytes)" width="100" height="75" border="0"></a></p>
+    </td>
+    <td width="33%">
+      <p align="center"><a href="images/Gekko/gkftbnt2.jpg"><img src="images/Gekko/small/gkftbnt2_small.jpg" alt="gkftbnt2.jpg (15070 bytes)" width="100" height="75" border="0"></a></p>
+    </td>
+  </tr>
+</table>
+  </center>
+</div>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

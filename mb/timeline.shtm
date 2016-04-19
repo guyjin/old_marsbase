@@ -1,0 +1,89 @@
+<!--#include virtual="addin1.inc" -->
+      <h1>Timeline</h1>
+      
+<a href="calendar.shtm" class="nav">Dating Method</a><br>
+    </td>
+    <td valign="top" align="left" width="100%" rowspan="2">
+          &nbsp;
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" bgcolor="#FFFFFF" colspan="2"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left" colspan="2">This
+    timeline represents a brief synopsis of the events leading up to and through the formation
+    and initial performance of the SpaceCorps.<br>
+          Those not familiar with the dating method may find an explanation <a HREF="calendar.shtm">here</a>.</td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left" colspan="2">
+            <hr size="1">
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" valign="top" align="left"><p><b>5/2104:</b> Beginning
+    of the Blacktron Incursion. Results in the destruction of the original Lego Confederacy
+    and the eventual establishment of the United Lego Federation. Blacktron forces are
+    descendants of the lost &quot;Dutchman Fleet&quot;, sent as the first long-range
+    exploratory mission to VerdunV. <br>
+            </p>
+    <p><b>8/2104</b>: Siege of Tophill. The 3-month siege of the Planet Tophill
+    signifies the beginning of the Blacktron incursion and displays the power of the Blacktron
+    forces. Tophill falls to Blacktron forces 8/2104(3) and spends the next 7 years under
+    Blacktron domination until the Tophill reinvestment. <br>
+            </p>
+    <p><b>9/2105</b>: Loss of the Barteen system to the Blacktron forces. The 1st
+    Confederated Naval Taskforce meets the Blacktron fleet at Barteen XIII. The result is the
+    complete destruction of the LC forces. <br>
+            </p>
+            <p><b>13/2107</b>: The loss of nearly a third of the LC systems results in
+    riots in LC governmental cores. Entire cities are burned to the ground.
+            <p><b>15/2107(7)</b>: Veteran soldiers seize mothballed weaponry
+    thought to be to old for service and impose martial law on 6 planets, beginning the
+    Pretender Peace.
+            <p><b>2/2109</b>: Following consolidation of remaining LC planets, a new
+    government is elected, the United Lego Federation. With the ruling party finally able to
+    establish a working coalition, the ULF forms the ad hoc Space Corps as a temporary measure
+    to bolster the depleted and nearly defeated regular forces.
+            <p><b>3/2109</b>: SpaceCorps planners and command staff, comprised mainly of
+    LC veterans, continue what had begun with the Pretender Peace and ramp up the reactivation
+    of mothballed equipment. <br>
+          </td>
+          <td width="50%" valign="top" align="left">
+    <p><b>5/2109</b>: The swift movement of the lightly armed and boldly led
+    'Corps scores the first victory for the beleaguered LC, now ULF forces. Leading a strike
+    on the Blacktron rear area, 'Corps forces manage to destroy one of 5 central weapon
+    storage stations at Golga 4, and drive Blacktron forces from the field in confusion for
+    the first time in the conflict. <br>
+            </p>
+    <p><b>8/2110</b>: SpaceCorps forces continue to lead the slowly rebuilding ULF
+    forces in a grinding counter move that slowly begins to roll the Blacktron forces back.
+    Leading the way are the Assault teams the 'Corps has begun organizing.<br>
+            </p>
+    <p><b>1/2110</b>: The 'Corps begins landing operations against Blacktron
+    forces at Barteen XIII, having stepped aside to allow the resurgent ULF fleet to engage
+    the Blacktron fleet successfully. <br>
+            </p>
+    <p><b>4/2111(10)</b>: ULF forces begin sweeping attacks on
+    outlying Blacktron pickets in the Tophill system, laying the ground work for the following
+    frontal assault against the most heavily defended positions in the history of 'Fig-kind.
+    'Corps Recon Team elements provide key data to the location of enemy command resources. <br>
+            </p>
+    <p><b>14/2111(4)</b>: Reinvestment of Tophill. <br>
+            </p>
+    <p><b>5/2112(16)</b>: SpaceCorps forces begin staging for
+    preparatory sweeps of Verdun space. <br>
+            </p>
+    <p><b>10/2115(4)</b>:
+    Following a 3+ year seige, Blacktron forces fall on VerdunV. General ZerDuk is the last
+    remaining Blacktron staff officer alive to sign the surrender treaty.
+          </td>
+        </tr>
+      </table>
+      </div>
+    </td>
+  </tr>
+  
+</table>
+<!--#include virtual="addin2.inc" -->

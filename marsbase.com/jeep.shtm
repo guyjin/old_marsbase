@@ -1,0 +1,99 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Jeep</h1>
+      
+<p><a href="jeepgallery.shtm" class="nav"> Jeep&nbsp;Gallery</a><br>
+  <a href="instructions.shtm" class="nav">Plans</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="center">
+
+<table cellpadding="2" width="75%" border="0" cellspacing="0">
+  
+  <tr>
+    <td colspan="2">Designation: Patterson Machine Works GP-1
+    &quot;Jeep&quot;
+      <p>&nbsp;</p>
+</td>
+  </tr>
+  <tr>
+    <td>By far the most numerous Ground vehicles,
+    the Jeep performs the lions' share of the reconaissance needed by the 'Corps. Fitted with
+    a durable, easily maintained recoilless rifle, the Jeep can provide impressive fire
+    support to 'Corps units. The Jeep, also classed as &quot;scoutcar&quot; has seen extensive
+    modifications and customizations by long serving veterans.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><img SRC="images/scoutcar/sctside.jpg" BORDER="0" Jeep"" width="200" height="150"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td>The scoutcar's gun is AI controlled giving the
+    driver more time to drive and not worry about aiming. Any targets that are anomalous are
+    popped up in the driver's visor for verbal confirmation. The weapons mount also sports a
+    small caliber anti-personel gun for surprise enemy troop encounters.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><img SRC="images/scoutcar/sctgun.jpg" BORDER="0" ALT="The scout's gun and IR sensor" width="200" height="150"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Crewed by a single driver seated in the center of
+    the chassis, the scoutcar has room and power left over to mount impressive armor for a
+    vehicle it's size. However, the lack of overhead protection is disturbing to most new
+    drivers. In time they realize that if they are spotted and without support, the presence
+    or absence of protection makes very little difference.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><img SRC="images/scoutcar/sctdrvr.jpg" BORDER="0" ALT="The driver" width="200" height="150"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Scoutcars are expected to operate independently for
+    extended periods of time. In support of this is the large rear storage compartment.
+    Stocked with food, clothing and med supplies the scoutcar is very nearly freed from logistical support while on extended patrols.
+    Needing to return to bases only to rearm and repair, scoutcars often are away from base
+    for weeks on end, reporting their findings via satellite.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><img SRC="images/scoutcar/sctbak.jpg" BORDER="0" ALT="Scoutcar's " trunk"" width="200" height="150"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+</table>
+
+<table align="CENTER" width="100%">
+  <tr>
+    <td align="center">
+                <p align="center">Currently plans for the <a href="instructions.shtm">PMW 
+                  &quot;Jeep&quot;</a> are declassified, and available for download. 
+                  <br>
+                  <a href="jeepgallery.shtm">Jeep Gallery</a>
+              </td>
+  </tr>
+</table>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

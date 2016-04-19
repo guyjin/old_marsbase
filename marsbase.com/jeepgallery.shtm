@@ -1,0 +1,53 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Jeep Gallery</h1>
+      
+<p><a href="jeep.shtm" class="nav">Jeep</a><br>
+  <a href="instructions.shtm" class="nav"> Plans</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="center">
+
+<table border="0">
+  
+  <tr>
+    <td valign="top" colspan="2">
+      <p align="center"><font color="#C0C0C0">click thumbnail to view image.
+</td>
+  </tr>
+  
+  <tr>
+    <td valign="top"><a href="images/scoutcar/recon2.jpg"><img src="images/scoutcar/small/recon2_small.jpg" alt="recon2.jpg (18533 bytes)" border="0" width="100" height="131"></a>
+</td>
+    <td valign="top"><a href="images/scoutcar/recon3.jpg"><img src="images/scoutcar/small/recon3_small.jpg" alt="recon3.jpg (32177 bytes)" border="0" width="100" height="118"></a>
+</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="images/scoutcar/recon5.jpg"><img src="images/scoutcar/small/recon5_small.jpg" alt="recon5.jpg (55216 bytes)" border="0" width="100" height="75"></a></td>
+    <td valign="top"><a href="images/scoutcar/sctbak.jpg"><img src="images/scoutcar/small/sctbak_small.jpg" alt="sctbak.jpg (15276 bytes)" border="0" width="100" height="75"></a></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="images/scoutcar/sctdrvr.jpg"><img src="images/scoutcar/small/sctdrvr_small.jpg" alt="sctdrvr.jpg (15306 bytes)" border="0" width="100" height="75"></a></td>
+    <td valign="top"><a href="images/scoutcar/sctgun.jpg"><img src="images/scoutcar/small/sctgun_small.jpg" alt="sctgun.jpg (12812 bytes)" border="0" width="100" height="75"></a></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="images/scoutcar/recon4.jpg"><img src="images/scoutcar/small/recon4_small.jpg" alt="recon4.jpg (40033 bytes)" border="0" width="100" height="92"></a></td>
+    <td valign="top"><a href="images/scoutcar/sctside.jpg"><img src="images/scoutcar/small/sctside_small.jpg" alt="sctside.jpg (20247 bytes)" border="0" width="100" height="75"></a></td>
+  </tr>
+</table>
+  
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

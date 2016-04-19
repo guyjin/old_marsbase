@@ -1,0 +1,61 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Kodiak<br>Gallery</h1>
+      
+<p><a href="kodiak.shtm" class="nav">Kodiak</a><br>
+  <a href="Kodiakbattle.shtm" class="nav"> After Action</a><br>
+  <a href="instructions.shtm" class="nav">Plans</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">
+<table align="center" border="0">
+  
+  <tr>
+    <td valign="middle" align="center" colspan="3">
+      <table width="100%">
+        <tr>
+          <td align="center" bgColor="#ffffff" height="15" noWrap vAlign="top" width="100%">
+            <p align="center"><img border="0" height="10" src="images/white.jpg" width="10"><font color="#c0c0c0">Please
+            note: some images are over&nbsp;<br>
+            300k</p>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" vAlign="top" width="100%"><font color="#c0c0c0">(click
+            thumbnail to view image.)</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="middle" align="center"><a href="images/kodiakpov/kodlower.jpg"><img src="images/kodiakpov/small/kodlower_small.jpg" border=0 alt width=100 height=88></a></td>
+    <td valign="middle" align="center"><a href="images/kodiakpov/k_rifle.jpg"><img src="images/kodiakpov/small/k_rifle_small.jpg" border=0 alt width=100 height=102></a></td>
+    <td valign="middle" align="center"><a href="images/kodiakpov/kodback.jpg"><img src="images/kodiakpov/small/kodback_small.jpg" border=0 alt width=100 height=75></a></td>
+  </tr>
+  <tr>
+    <td valign="middle" align="center"><a href="images/kodiakpov/kodiakfull%20copy.jpg"><img src="images/kodiakpov/small/kodiakfull_copy_small.jpg" border=0 alt width=100 height=136></a></td>
+    <td valign="middle" align="center"><a href="images/kodiakpov/kodprofile.jpg"><img src="images/kodiakpov/small/kodprofile_small.jpg" border=0 alt width=100 height=159></a></td>
+    <td valign="middle" align="center"><a href="images/kodiakpov/kodpose.jpg"><img src="images/kodiakpov/small/kodpose_small.jpg" border=0 alt width=100 height=138></a></td>
+  </tr>
+  <tr>
+    <td valign="middle" align="center"><a href="images/kodiakpov/kodpose1.jpg"><img src="images/kodiakpov/small/kodpose1_small.jpg" border=0 alt width=100 height=88></a></td>
+    <td valign="middle" align="center"><a href="images/kodiakpov/kodsdlower.jpg"><img src="images/kodiakpov/small/kodsdlower_small.jpg" border=0 alt width=100 height=124></a></td>
+    <td valign="middle" align="center"><a href="images/kodiakpov/k_torpos.jpg"><img src="images/kodiakpov/small/k_torpos_small.jpg" border=0 alt width=100 height=57></a></td>
+  </tr>
+</table>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

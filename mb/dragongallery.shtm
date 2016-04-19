@@ -1,0 +1,65 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Dragonfly Gallery</h1>
+      <p>
+      <a href="dragonfly.shtm" class="nav">
+     Dragonfly</a></p>
+    
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">
+
+  <table width="75%">
+    <tr> 
+      <td align="left" width="543"><img SRC="images/dragonfly/chopgunsup.jpg" BORDER="0" ALT align="left" WIDTH="389" HEIGHT="291"></td>
+    </tr>
+    <tr> 
+      <td align="left" width="543" height="269"><img SRC="images/dragonfly/chopfltdwn.jpg" BORDER="0" ALT ALIGN="left" WIDTH="356" HEIGHT="267"><br>
+      </td>
+    </tr>
+    <tr> 
+      <td align="left" width="543" height="253"><img SRC="images/dragonfly/chopfrnt.jpg" BORDER="0" ALT ALIGN="left" WIDTH="311" HEIGHT="251"><br>
+      </td>
+    </tr>
+    <tr> 
+      <td width="543" height="293"><img SRC="images/dragonfly/chopoblq.jpg" BORDER="0" ALT ALIGN="left" WIDTH="389" HEIGHT="291"><br>
+      </td>
+    </tr>
+    <tr> 
+      <td width="543" height="377"><img SRC="images/dragonfly/choprecn.jpg" BORDER="0" ALT ALIGN="left" WIDTH="500"><br>
+      </td>
+    </tr>
+    <tr> 
+      <td width="543" height="293"><img SRC="images/dragonfly/chopside.jpg" BORDER="0" ALT ALIGN="left" WIDTH="389" HEIGHT="291"><br>
+      </td>
+    </tr>
+    <tr> 
+      <td width="543" height="293"><img SRC="images/dragonfly/chopundr.jpg" BORDER="0" ALT ALIGN="left" WIDTH="389" HEIGHT="291"><br>
+      </td>
+    </tr>
+    <tr> 
+      <td width="543" height="298"><img SRC="images/dragonfly/chpbkoblq.jpg" BORDER="0" ALT ALIGN="left" WIDTH="389" HEIGHT="291"><br>
+      </td>
+    </tr>
+    <tr> 
+      <td width="543" height="293"><img SRC="images/dragonfly/chprecnfly.jpg" BORDER="0" ALT ALIGN="left" WIDTH="389" HEIGHT="291"><br>
+      </td>
+    </tr>
+    <tr> 
+      <td width="543" height="15"></td>
+    </tr>
+  </table>
+          
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  
+
+<!--#include virtual="addin2.inc" -->
+</body>
+</html>

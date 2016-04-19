@@ -1,0 +1,63 @@
+<!--#include virtual="addin1.inc" -->
+     
+<h1>Links</h1>
+<p>
+ <a href="index.shtm" class="nav"> Home</a></p>	
+    
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      
+    <table border="0" width="100%" cellspacing="3" cellpadding="3">
+      <tr>
+          
+        <td width="100%" valign="top" align="left" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          
+        <td width="100%" valign="top" align="left">
+          <p><b>L E G O &nbsp;R e l a t e d</b></p>
+          <p><a href="http://www.ldraw.org/">LDRAW.org</a> - This is the clearing 
+            house for all things related to LEGO cad. The software found on LDRAW.org 
+            can be used to view the instruction .dat files housed here on Marsbase.</p>
+			<p><a href="/macparts.shtm">Macintosh Part Files</a> - These files can be used with Macintosh software that can be found on Ldraw.org.
+          <p><a href="http://www.lugnet.com/">LUGNET.com</a> - Join the community! 
+            Lugnet is the focal point for LEGO enthusiasts around the world. Join 
+            in conversations, debates, and share creations. Keep up to date on 
+            the latest happenings in the LEGO world.</p>
+          <p><a href="http://www.lego.com">LEGO.com</a> - The home world! Visit 
+            the homepage of the bestloved building block. </p>
+          <p>&nbsp;</p>
+          <p><b>C r e a t i o n s&nbsp; R e l a t e d</b></p>
+          <p><a href="http://www.karimnassar.com/kn/pallas/main.html">Pallas Spaceworks</a> 
+            - View the latest offerings from Karim Nassar's Pallas Spaceworks. 
+            Karim's creations continue to inspire builders all over the world.</p>
+          <p><a href="http://www.bekkoame.ne.jp/ha/hj22438/WORKS.html">Ken-tucky 
+            Works</a> - Home of Ken Takeuchi's models, this site is a fantastic 
+            example of the non-traditional use of LEGO bricks. With lots of anime 
+            inspired creations, with nods to StarWars and other Sci-fi adventures, 
+            Ken also draws on his own surroundings to inspire him.</p>
+          <p><a href="http://soli.inav.net/%7Ethomas/mglm/main.htm">Master Grade 
+            LEGO Models</a> - David Thomas Jr. displays his remarkable creations. 
+            He has an incredible attention to detail and a flair for modeling 
+            very difficult subjects.</p>
+          <p><a href="http://www.geocities.com/Area51/Saturn/5559/">Colins' LEGO 
+            Tech</a> - Colin Robert Gutierrez has, in a very short time, drawn 
+            a tremendous amount of attention to modeling mecha with LEGO. His 
+            instructions to build hips and legs, coupled with his fantatic models 
+            have inspired many builders, new and old.</p>
+          <p><a href="http://www3.sympatico.ca/mladenpejic/">Mladen's Lego Creations</a> - Mladen shows off
+          his inspiring collection of mecha and other vehicles, along with plans to build most of them!  Mladen has become one of the premier mecha 
+          builders in the LEGO community.
+          <p>--&gt; There are lots of other great mecha sites. You can find a 
+            list at <a href="http://www.lugnet.com/build/mecha/">LUGNET.building.mecha</a>.</p>
+          <p>&nbsp;</p>
+        </td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  
+
+<!--#include virtual="addin2.inc" -->

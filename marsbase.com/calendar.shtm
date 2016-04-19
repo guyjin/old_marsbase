@@ -1,0 +1,39 @@
+<!--#include virtual="addin1.inc" -->
+      <h1>Calendar</h1>
+      
+<p><a href="timeline.shtm" class="nav">Timeline</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="left">The ULF
+    continued to update the new Calendar project begun by the now defunct LC.<p>Considering the breadth of the LC, the old Calendar was very
+    inadequate. <br>
+    The new calendar works like this: Planetary years have been replaced by the standardized
+    galactic year. <br>
+    The current galactic year is 2257. Each galactic year is divided into 15
+    &quot;months&quot;, <br>
+    these are in turn divided into 60 &quot;days&quot;. The ULF did keep the old calendar's
+    &quot;Hour&quot;, dividing the new days into 30 hours.</p>
+    <p>&nbsp;<br>
+    Standard notation looks like this: <br>
+    Month/Year(day), <br>
+    so the date this was written looks like this: <br>
+    11/2257(25). <br>
+    The ULF calendar is only used for interplanetary coordination, local time is still kept on
+    each planet of the ULF.
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

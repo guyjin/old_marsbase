@@ -1,0 +1,72 @@
+<!--#include virtual="addin1.inc" -->
+      <h1>Crusader<br>
+      Gallery</h1>
+      
+<p><a href="crusader.shtm" class="nav">Crusader</a><br>
+  <a href="instructions.shtm" class="nav">Plans</a></p>
+    </td>
+    <td valign="top" align="left" width="100%">
+      <div align="center">
+
+<center>
+
+<table border="0">
+  <tr>
+    <td colspan="3">
+      <div align="center">
+        <center>
+        <table>
+          <tr>
+            <td align="center" bgColor="#ffffff" height="15" noWrap vAlign="top" width="100%">
+              <p align="center"><img border="0" height="10" src="images/white.jpg" width="10"><font color="#c0c0c0">Please
+              note: some images are over&nbsp;<br>
+              300k</p>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" vAlign="top" width="100%"><font color="#c0c0c0">(click
+              thumbnail to view image.)<br>
+            </td>
+          </tr>
+        </table>
+        </center>
+      </div>
+</td>
+  </tr>
+  <tr>
+    <td><a href="images/crusader/crusankle.jpg"><img src="images/crusader/small/crusankle_small.jpg" border=0 alt width=100 height=75 alt=""></a>
+</td>
+    <td><a href="images/crusader/crusback.jpg"><img src="images/crusader/small/crusback_small.jpg" border="0" alt width="100" height="75"></a>
+</td>
+    <td><a href="images/crusader/crusbeam.jpg"><img src="images/crusader/small/crusbeam_small.jpg" border="0" alt width="100" height="75"></a>
+</td>
+  </tr>
+  <tr>
+    <td><a href="images/crusader/cruscannon.jpg"><img src="images/crusader/small/cruscannon_small.jpg" border="0" alt width="100" height="75"></a></td>
+    <td><a href="images/crusader/cruscanopy.jpg"><img src="images/crusader/small/cruscanopy_small.jpg" border="0" alt width="100" height="75"></a></td>
+    <td><a href="images/crusader/crushand.jpg"><img src="images/crusader/small/crushand_small.jpg" border="0" alt width="100" height="75"></a></td>
+  </tr>
+  <tr>
+    <td><a href="images/crusader/cruship.jpg"><img src="images/crusader/small/cruship_small.jpg" border="0" alt width="100" height="75"></a></td>
+    <td><a href="images/crusader/crushtexch.jpg"><img src="images/crusader/small/crushtexch_small.jpg" border="0" alt width="100" height="75"></a></td>
+    <td><a href="images/crusader/crusknee.jpg"><img src="images/crusader/small/crusknee_small.jpg" border="0" alt width="100" height="75"></a></td>
+  </tr>
+  <tr>
+    <td><a href="images/crusader/crusopen.jpg"><img src="images/crusader/small/crusopen_small.jpg" border="0" alt width="100" height="75"></a></td>
+    <td><a href="images/crusader/cruspose.jpg"><img src="images/crusader/small/cruspose_small.jpg" border="0" alt width="100" height="75"></a></td>
+    <td><a href="images/crusader/crussholder.jpg"><img src="images/crusader/small/crussholder_small.jpg" border="0" alt width="100" height="75"></a></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <p align="center"><a href="images/crusader/cruswaist.jpg"><img src="images/crusader/small/cruswaist_small.jpg" border="0" alt width="100" height="75"></a></p>
+    </td>
+  </tr>
+</table>
+</center>
+</div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="addin2.inc" -->

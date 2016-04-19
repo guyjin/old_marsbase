@@ -1,0 +1,120 @@
+<!--#include virtual="addin1.inc" -->
+     <h1>Kite</h1>
+      
+<p><a href="kitegallery.shtm" class="nav">Kite&nbsp;Gallery</a><br>
+  <a href="instructions.shtm" class="nav"> Plans</a></p>
+    
+    <td valign="top" align="left" width="100%">
+      <div align="left">
+      <table border="0" width="100%" height="100%" cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" align="center">
+
+<table width="75%" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td colspan="2">Designation: Sikorshi/Patersen VAC-9 &quot;Kite&quot;
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Once considered to be outside the financial reach of
+    the 'Corps, the Kite is the quintessential air-to-ground platform. By far the most
+    advanced aircraft to roll out from Sikorsky/Patersen in recent years, the Kite is the
+    encapsulation of over 300 y ears of air-to-ground combat.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><a href="images/kite/kiteobliq.jpg"><img SRC="images/kite/thumbs/kiteobliq_small1.jpg" ALT="The Kite at rest." BORDER="0" width="100" height="75"></a></td>
+  </tr><tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Large for a single seat aircraft, the Kite masses
+    nearly double the Dragonfly. While creating a logistical problem for the still undersized
+    'Corps fleet, the Kite brings a remarkable versatility to the battlefield.<br>
+    Topping the list of the Kite's features are the dual, vectored McKinney 455-0 engines. The
+    oversized vector vanes offer an outstanding amount of control, allowing the Kite's pilot
+    to transition from engines idle on the pad to speeds in excess of 700kmh in less then 90
+    seconds.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><a href="images/kite/starengopen.jpg"><img SRC="images/kite/thumbs/starengopen_small1.jpg" ALT="The Kite's most noticed feature, vectored thrust." BORDER="0" width="100" height="75"></a></td>
+  </tr><tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>The Kite is extremely manuverable, to the point of
+    injuring pilots not prepared for violent manuvers with it's sudden response. However, the
+    Kite brings more with it than manuverability. Perched atop the Kites spine is the largest
+    &quot;Smartstick&quot; pod ever mounted on an aircraft. Due to the
+    &quot;Smartstick&quot;'s small size, this pod houses over 200 individual rounds, ranging
+    from armor-piercing to anti-personel. Such a varied load out for just one weapon system is
+    very rare, but extends the Kite's mission envelo pe tremendously. This photo clearly shows
+    the individual launchers in each bank. Each launcher is a capable of firing 4 rounds per
+    salvo from each indented launch rail. (Please note the flare/flash dispenser at the end of
+    the center bank.)<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><a href="images/kite/mislpod.jpg"><img SRC="images/kite/thumbs/mislpod_small1.jpg" ALT="The massive Smartstick pod" BORDER="0" width="100" height="75"></a></td>
+  </tr><tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Without a doubt, the Kite's engines generate a
+    tremendous amount of heat, making them ripe targets for IR seeking weapons. Normal
+    countermeasures stand little chance compared to the output of these powerplants. Designed
+    specifically for the Kite, t he Simpkins IR suppression gear radiates energy on an exactly
+    negative wavelength to that of the engines, canceling the IR signature.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><a href="images/kite/irgear.jpg"><img SRC="images/kite/thumbs/irgear_small1.jpg" ALT="The Kite's IR gear." BORDER="0" width="100" height="75"></a></td>
+  </tr><tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Somewhat unique to the Kite is the external bracing
+    for the cockpit. Seen here, the bracing allows the cockpit to be hung at something of an
+    angle, improving pilot visiblity, without impeding the ability of the Kite to eject it's
+    entire cockpit.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><a href="images/kite/cpitbrace.jpg"><img SRC="images/kite/thumbs/cpitbrace_small1.jpg" ALT="The cockpits unique bracing." BORDER="0" width="100" height="75"></a></td>
+  </tr><tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Adding to the firepower of the Kite is the GE Gs-20L
+    &quot;Thad&quot; Railgun, the smaller cousin to that carried by the Rapier. In addition
+    the Kite carries two smaller misslepods on swivel mounts on either side of the fuselage.<br><FONT color=#c0c0c0>(click thumbnail to view image)</td>
+    <td><a href="images/kite/gun.jpg"><img SRC="images/kite/thumbs/gun_small1.jpg" ALT="The obligatory " Big Gun"" BORDER="0" width="100" height="75"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+                <p align="center"><a href="instructions.shtm">Plans for the Kite</a><a HREF="kitegallery.shtm"><br>
+      Image
+    gallery of the Kite</a><br>
+    NOTE: These are large images and will take some time to load.</td>
+  </tr>
+</table>
+</td>
+        </tr>
+      </table>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  
+
+<!--#include virtual="addin2.inc" -->

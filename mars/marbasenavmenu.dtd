@@ -1,0 +1,7 @@
+<!ELEMENT SubURL (#PCDATA)>
+<!ELEMENT HeadingURL (#PCDATA)>
+<!ELEMENT MenuEntry (#PCDATA | HeadingTitle | HeadingURL | SubHeading)*>
+<!ELEMENT SubTitle (#PCDATA)>
+<!ELEMENT HeadingTitle (#PCDATA)>
+<!ELEMENT SubHeading (#PCDATA | SubTitle | SubURL)*>
+<!ELEMENT NavMenu (#PCDATA | MenuEntry)*>

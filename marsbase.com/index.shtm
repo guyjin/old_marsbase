@@ -1,0 +1,40 @@
+<!--#include file="addin1.inc" -->
+<h1>marsbase</h1>
+<a href="whatsnew.shtm" class="nav"><font color="FF0000">What's New</font></a><br>
+<a hrehornotes.shtm" class="nav">Author Notes</a><a href="disclaimer.shtm" class="nav"><br>
+      Disclaimer</a><br>
+<br>
+<td valign="top" align="left" rowspan="2" width="100%">
+<div align="left">
+      
+    <table border="0" width="51%" cellspacing="3" cellpadding="3">
+      <tr>
+          <td width="100%" valign="top" align="left" bgcolor="#FFFFFF">Welcome.<br>
+            <br>
+            This site is a catalog of the past and present hardware inventory
+            of the SpaceCorps' 137th Battalion.
+            <p>In addition, future developments,
+            history, blueprints, and other United LEGO Federation resources are
+            available.
+            </p>
+            <p>Please choose a link from the left to
+            begin exploring Marsbase.
+            </p>
+            <p><br>
+            </p>
+          </td>
+        </tr>
+      </table>
+      </div>
+	  
+
+	  
+	
+	  
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  
+  
+
+<!--#include file="addin2.inc" -->

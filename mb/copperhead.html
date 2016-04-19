@@ -1,0 +1,384 @@
+<html>
+<head>
+<BASE HREF="http://marsbase.com/">
+
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>&gt;&gt;&gt;&gt;m a r s b a s e&lt;&lt;&lt;&lt;</title>
+<link rel="stylesheet" type="text/css" href="http://web.archive.org/web/20030709052101/http://marsbase.com/marsbasestyle.css">
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+floatX=10;
+floatY=10;
+layerwidth=125;
+layerheight=60;
+align="right";
+valign="bottom";
+delayspeed=0;
+
+// This script is copyright (c) Henrik Petersen, NetKontoret
+// Feel free to use this script on your own pages as long as you do not change it.
+// It is illegal to distribute the script as part of a tutorial / script archive.
+// Updated version available at: http://www.echoecho.com/toolfloatinglayer.htm
+// This comment and the 4 lines above may not be removed from the code.
+
+NS6=false;
+IE4=(document.all);
+if (!IE4) {NS6=(document.getElementById);}
+NS4=(document.layers);
+
+function adjust() {
+if ((NS4) || (NS6)) {
+if (lastX==-1 || delayspeed==0)
+{
+lastX=window.pageXOffset + floatX;
+lastY=window.pageYOffset + floatY;
+}
+else
+{
+dx=Math.abs(window.pageXOffset+floatX-lastX);
+dy=Math.abs(window.pageYOffset+floatY-lastY);
+d=Math.sqrt(dx*dx+dy*dy);
+c=Math.round(d/10);
+if (window.pageXOffset+floatX>lastX) {lastX=lastX+delayspeed+c;}
+if (window.pageXOffset+floatX<lastX) {lastX=lastX-delayspeed-c;}
+if (window.pageYOffset+floatY>lastY) {lastY=lastY+delayspeed+c;}
+if (window.pageYOffset+floatY<lastY) {lastY=lastY-delayspeed-c;}
+}
+if (NS4){
+document.layers['floatlayer'].pageX = lastX;
+document.layers['floatlayer'].pageY = lastY;
+}
+if (NS6){
+document.getElementById('floatlayer').style.left=lastX;
+document.getElementById('floatlayer').style.top=lastY;
+}
+}
+else if (IE4){
+if (lastX==-1 || delayspeed==0)
+{
+lastX=document.body.scrollLeft + floatX;
+lastY=document.body.scrollTop + floatY;
+}
+else
+{
+dx=Math.abs(document.body.scrollLeft+floatX-lastX);
+dy=Math.abs(document.body.scrollTop+floatY-lastY);
+d=Math.sqrt(dx*dx+dy*dy);
+c=Math.round(d/10);
+if (document.body.scrollLeft+floatX>lastX) {lastX=lastX+delayspeed+c;}
+if (document.body.scrollLeft+floatX<lastX) {lastX=lastX-delayspeed-c;}
+if (document.body.scrollTop+floatY>lastY) {lastY=lastY+delayspeed+c;}
+if (document.body.scrollTop+floatY<lastY) {lastY=lastY-delayspeed-c;}
+}
+document.all['floatlayer'].style.posLeft = lastX;
+document.all['floatlayer'].style.posTop = lastY;
+} 
+setTimeout('adjust()',50);
+}
+
+function define()
+{
+if ((NS4) || (NS6)) 
+{ 
+if (align=="left") {floatX=ifloatX};
+if (align=="right") {floatX=window.innerWidth-ifloatX-layerwidth-20};
+if (align=="center") {floatX=Math.round((window.innerWidth-20)/2)-Math.round(layerwidth/2)};
+if (valign=="top") {floatY=ifloatY};
+if (valign=="bottom") {floatY=window.innerHeight-ifloatY-layerheight};
+if (valign=="center") {floatY=Math.round((window.innerHeight-20)/2)-Math.round(layerheight/2)};
+}
+if (IE4) 
+{
+if (align=="left") {floatX=ifloatX};
+if (align=="right") {floatX=document.body.offsetWidth-ifloatX-layerwidth-20}
+if (align=="center") {floatX=Math.round((document.body.offsetWidth-20)/2)-Math.round(layerwidth/2)}
+if (valign=="top") {floatY=ifloatY};
+if (valign=="bottom") {floatY=document.body.offsetHeight-ifloatY-layerheight}
+if (valign=="center") {floatY=Math.round((document.body.offsetHeight-20)/2)-Math.round(layerheight/2)}
+}
+}
+//-->
+</script>
+
+</head>
+
+<body>
+
+<table border="0" height="100%" cellpadding="2" width="100%">
+  <tr>
+    <td valign="top" align="left" height="70" width="33">
+      <p><a href="http://www.marsbase.com"><img border="0" src="images/mbstick.gif" align="top"></a><font color="#C0C0C0"><a href="index.shtm
+" class="nav"><br>
+      <br>
+      Home</a><br>
+      <a href="timeline.shtm" class="nav">
+      Time</a><br>
+      <a href="instructions.shtm" class="nav">
+      Plans</a><br>
+      <a href="mecha.shtm" class="nav">
+      Mecha</a><br>
+      <a href="ground.shtm" class="nav">
+      Ground</a><br>
+      <a href="air.shtm" class="nav">
+      Air</a><br>
+      <a href="links.shtm" class="nav">
+      Links</a><br>
+      <a href="credits.shtm" class="nav">Credits</a><br>
+      <a href="mailto:buster@marsbase.com" class="nav">Email</a>
+      </font>
+      </p>
+    </td>
+    <td valign="top" align="left" width="3" height="100%"><img border="0" src="images/line.jpg" width="3" height="100%"></td>
+    <td valign="top" align="left" width="80">
+<h1>Copperhead</h1>
+<p> <a href="gallery.asp?subject=Copperhead" class="nav"> Copperhead Gallery</a><br>
+        <!-- a href="" class="nav">Plans</a --></p>
+      <td valign="top" align="left" width="100%">
+      <div align="left">
+<table border="0" width="75%"  cellspacing="3" cellpadding="3" align="left">
+<tr>
+<td>Triton Machine Works'  PA-4 "Copperhead"<br><p>Only recently release to active service, the Copperhead has taken the SpaceCorps Mecha services by storm.  Dramatic improvements in actuator and foot design, coupled with a truly revolutionary drive system have quickly made inroads in the traditionally conservative mecha groups.
+</td>
+</tr>
+<tr>
+<td>
+<hr>
+</td>
+</tr>
+          
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Copperhead/blade.jpg"><img src="images/Copperhead/bladesmall.jpg" align="right" border="0"></a>Continuing the practice begun with the <a href="arapahoe.shtm">Arapahoe</a> and <a href="ronin.shtm">Ronin</a>, the Copperhead carries an improved CLAW  system.  In this case the beam is phased,  giving it more coherence and increase cutting power.  The phasing results in the sectioned appearance of the blade.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Copperhead/chest_plate.jpg"><img src="images/Copperhead/chest_platesmall.jpg" align="right" border="0"></a>Sixteen short range missles are housed in the starboard and port chest plates.  Citing the increased power demands of the PAC and Graser combinations in the <a href="ronin.shtm">Ronin's</a> chest plates, designers opted for a less power hungry solution.  Typical missle loadouts are: eight (8) HVAP (high velocity armor piercing) rounds, four (4) AP (anti-personnel), and four (4) CM (counter-measures) rounds.  CM rounds are highly specialized rounds that have a multi-stage payload.  These stages include smoke, chaff, nano-ECM, and multi-spectra components.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Copperhead/drive_schema.jpg"><img src="images/Copperhead/drive_schemasmall.jpg" align="right" border="0"></a>The most radical development seen in the new Copperhead is the drive system.  The drive system has two parts.  The first is the AG or Anti-Grav bubble.  Seen here in blue, the bubble is actually invisible to all but the most specialized sensors.  The AG bubble is used primarily to lift the Copperhead off the ground only a small amount.  While capable of great heights, the AG bubble has no stealth capabilities or protective measures and a careless pilot can quickly find themselves on the sensor screens of anti-air defenses and aerospace interceptors.  In addition, the AG bubble mearly provides lift, not thrust.  To this end the AG generators (the large dish like objects on either side of the engine pack) have been mated with Magnetic Flux generators.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Long used to manipulate large masses in space based industries, the MagFlux units (the two pods in the over/under configuration in the middle of the pack) produce a cone shaped magnetic field (seen here in orange).  The field is exactly the opposite polarity of the Copperhead itself.  The two fields repulse each other, forcing one of them away.  In this case, the object that moves is the Copperhead.  As the Copperhead moves, new fields are continually generated, forcing a continued motion.  Pilots and maintenance crew have been heard to joke the the Copperhead is always trying to get out of it's own way.<br>Supplying power for both drive units as well as the internal systems and weapons is a small fusion bottle housed in the back to the Copperhead's torso itself.  Placed directly behind the pilot, the fusion bottle has a direct feed to the drive units.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Copperhead/engine.jpg"><img src="images/Copperhead/enginesmall.jpg" align="right" border="0"></a>The complete drive configuration can be seen here.  In addition, two sensor masts extend into the MagFlux cone itself.  The sensors allow the onboard systems to continually monitor and make the minute changes needed to the field to keep it operating.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Copperhead/footdesign.jpg"><img src="images/Copperhead/footdesignsmall.jpg" align="right" border="0"></a>Continual design improvements have been made in mecha foot design.  <a href="badger.shtm">Early mecha</a> were notorious for  there inability to navigate sloping or broken terrain.  The latest incarnation of feet are on the Copperhead.  Seen here, extracted from the shin, the large ankle pin normally extends will up into the shin.  This allows for great stability without reducing the rotation range.  Below the pin is the greatest change.  The ankle pivot allows the entire foot to rotate up and down.  This allows the Copperhead to dramatically improve it's ability to keep it's balance in challenging terrain.  In addition, the toe and heel pivot and the tips of the toe rotate up and down.  In essence the foot is now capable of rotation in X, Y, and Z axis.  Pilot comments have been very favorable.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Copperhead/footpad.jpg"><img src="images/Copperhead/footpadsmall.jpg" align="right" border="0"></a>The foot design also offers a new solution for traction.  Individual pads, manufactured of a flexible (Everything is relative, the pads compress under tons of pressure, which is just what happens when the Copperhead stands on them.  Up close the pads appear to be incredibly light, increadibly dense disks) material act as shock absorbers.  Together with other pads, they form a skid resistant surface.  The pads have been likened to swapping dress shoes for hiking boots.  The pads do wear out however, and need to be replaced approximately every 100 miles.  Combined with the new drive systems the Copperhead needs to walk much less and so the lifetime of the pads has been as long as four (4) months in the field.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Copperhead/handholds.jpg"><img src="images/Copperhead/handholdssmall.jpg" align="right" border="0"></a>Hand holds are located on the shin, thigh, and pelvis of the Copperhead to allow for easier access to the pilot seat.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Copperhead/head.jpg"><img src="images/Copperhead/headsmall.jpg" align="right" border="0"></a>The large forehead of the Copperhead's head houses a moderate sensor-suite.  Primary sensor packs are located in the tops of the shoulders.  More importantly, the primary optical sensors are also in the head.  A newly developed mounting system allows greater movement of the head.  Along these lines, the head has been slaved to the pilot's own movements.  The means that the head of the mecha matches the head movement of the pilot.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Copperhead/hilt.jpg"><img src="images/Copperhead/hiltsmall.jpg" align="right" border="0"></a>When not in use, the hilt of the CLAW system is housed on the right forearm.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Copperhead/pulse_cannon.jpg"><img src="images/Copperhead/pulse_cannonsmall.jpg" align="right" border="0"></a>The largest weapon the Copperhead can carry is the J296 Pulse Cannon.  This cannon is a kinetic weapon along the lines of a railgun.  The difference is the speed of the projectile and the method of acceleration.  The J296 uses side mounted spiral tracks in series,  coupled with pulsed magnetic accelerators in the barrel.  The result is a hypersonic projectile the size of a child's marble.  Because speed equals energy, the force of the round is similar to that of a small ground car hitting the target at 1136kph.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Copperhead/shield_arm.jpg"><img src="images/Copperhead/shield_armsmall.jpg" align="right" border="0"></a>The Copperhead's left arm carries an  integrated shield generator.  The shield itself is a made up of polarized ions held in stasis.  In essence, it is comprised of compressed air molecules. The range of the stasis emitter is limited to three (3) meters, giving a total shield diameter of six (6) meters.  While not a completely effective solution, pilots seem to prefer it nothing at all.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Copperhead/shin_pod.jpg"><img src="images/Copperhead/shin_podsmall.jpg" align="right" border="0"></a>Each of the Copperhead's shins has a small pod on the back.  Each pod contains smaller versions of the MagFlux generators.  These small pods provide finer direction control and aid in turning the mecha by controlling the swing of the legs.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Copperhead/shortgun.jpg"><img src="images/Copperhead/shortgunsmall.jpg" align="right" border="0"></a>The Pulse Cannon, while an effective weapon, is very expensive and very bulky.  Standard Copperhead's are outfitted with the Maxton JPG-3 mk.II.  Part of the same family as the <a href="arapahoe.shtm">Arapahoe's</a> main gun the JPG-4, the JPG-3 carries a single graser as opposed to the dual grasers of the JPG-4.  However, the power systems of the mk.II version of the JPG-3 have been substantially updated.  Yields have improved 62% over the original version.  Coupled with refined optics, the JPG-3's hitting power is nearly on par with the JPG-4's.  The grenade launcher of the '4 is superceded by the missle packs the Copperhead carries internally.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  
+		 <tr>
+		 <td width="100%" valign="top" align="left"><a href="images/Copperhead/shoulder_view.jpg"><img src="images/Copperhead/shoulder_viewsmall.jpg" align="right" border="0"></a>Shoulder armor has been increased in the Copperhead in comparison with the Arapahoe and Ronin.  While protecting the joint and armature systems, the thickest armor is found defending the Thyre 3K567-a comprehensive sensor systems.
+		 </td>
+		 </tr>
+		 <tr> 
+            <td width="100%" valign="top" align="left"> 
+              <hr>
+            </td>
+          </tr> 
+            
+		  
+		  </table>
+		
+</tr>
+</table>
+<script>
+if (NS4) {document.write('<LAYER NAME="floatlayer" LEFT="'+floatX+'" TOP="'+floatY+'">');}
+if ((IE4) || (NS6)) {document.write('<div id="floatlayer" style="position:absolute; left:'+floatX+'; top:'+floatY+';">');}
+</script>
+<img src="images/smalllabel.gif">
+<script>
+if (NS4) 
+{
+document.write('</LAYER>');
+}
+if ((IE4) || (NS6)) 
+{
+document.write('</DIV>');
+}
+ifloatX=floatX;
+ifloatY=floatY;
+define();
+window.onresize=define;
+lastX=-1;
+lastY=-1;
+adjust();
+</script>
+
+</body>
+
+
+<!-- SOME LINK HREF'S ON THIS PAGE HAVE BEEN REWRITTEN BY THE WAYBACK MACHINE
+OF THE INTERNET ARCHIVE IN ORDER TO PRESERVE THE TEMPORAL INTEGRITY OF THE SESSION. -->
+
+
+<SCRIPT language="Javascript">
+<!--
+
+// FILE ARCHIVED ON 20030709052101 AND RETRIEVED FROM THE
+// INTERNET ARCHIVE ON 20040406134533.
+// JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+// ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+// SECTION 108(a)(3)).
+
+   var sWayBackCGI = "http://web.archive.org/web/20030709052101/";
+
+   function xLateUrl(aCollection, sProp) {
+      var i = 0;
+      for(i = 0; i < aCollection.length; i++)
+         if (aCollection[i][sProp].indexOf("mailto:") == -1 &&
+             aCollection[i][sProp].indexOf("javascript:") == -1)
+            aCollection[i][sProp] = sWayBackCGI + aCollection[i][sProp];
+   }
+
+   if (document.links)  xLateUrl(document.links, "href");
+   if (document.images) xLateUrl(document.images, "src");
+   if (document.embeds) xLateUrl(document.embeds, "src");
+
+   if (document.body && document.body.background)
+      document.body.background = sWayBackCGI + document.body.background;
+
+//-->
+
+</SCRIPT>
+</html>
+

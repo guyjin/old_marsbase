@@ -1,0 +1,39 @@
+<!--#include file="addin1.inc" -->
+      <h1>Mecha</h1>
+      
+<p>
+  <a href="display.asp?subject=LongTom" class="nav">LongTom</a><br>
+  <a href="display.asp?subject=Copperhead" class="nav">Copperhead</a><br>
+  <a href="display.asp?subject=Arapahoe" class="nav">Arapahoe</a><br>
+  <a href="ronin.shtm" class="nav">Ronin</a><br>
+  <a href="kodiak.shtm" class="nav">Kodiak</a><br>
+  <a href="crusader.shtm" class="nav">Crusader</a><br>
+  <a href="rapier.shtm" class="nav">Rapier</a><br>
+  <a href="badger.shtm" class="nav">Badger</a><br>
+  <a href="gekko.shtm" class="nav">Gekko</a><br>
+      </p>
+    
+    <td valign="top" align="left" width="100%">
+      <div align="center">
+      <center>
+      <table border="0" width="75%"  cellspacing="3" cellpadding="3">
+        <tr>
+          <td width="100%" valign="top" align="left" height="15" bgcolor="#FFFFFF"><img border="0" src="images/white.jpg" width="10" height="10"></td>
+        </tr>
+        <tr>
+              <td width="100%" valign="top" align="left"><img border="0" src="images/close.jpg" align="right" width="320" height="240">Mecha 
+                are (at least in the case of Marsbase) piloted machines in humanoid 
+                form.&nbsp; Ranging in size from the diminutive <a href="crusader.shtm">Crusader</a> 
+                to the impressive bulk of the <a href="kodiak.shtm">Kodiak</a>, 
+                to the brand new <a href="arapahoe.shtm">Arapahoe</a>, mecha are 
+                the modern incarnation of suits of armor.</td>
+        </tr>
+      </table>
+      </center>
+      </div>
+      &nbsp;
+      <p>&nbsp;</p>
+    </td>
+  
+
+<!--#include file="addin2.inc" -->
